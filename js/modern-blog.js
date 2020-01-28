@@ -51,10 +51,10 @@ var demo = (function (window) {
         var pattern = Trianglify({
             width: window.innerWidth,
             height: window.innerHeight,
-            cell_size: 60,
+            cell_size: 80,
             variance: 1,
             stroke_width: 2,
-            x_colors: ['#FF6138', '#FFFF9D', '#BEEB9F', '#79BD8F', '#00A388'],
+            x_colors: ['#403769', '#6d61a4', '#FFFFFF', '#48a7db', '#2d78a1'],
             y_colors: 'match_x'
         }).svg(); // Render as SVG.
 
