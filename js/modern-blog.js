@@ -53,8 +53,8 @@ var demo = (function (window) {
             height: window.innerHeight,
             cell_size: 90,
             variance: 1,
-            stroke_width: 1,
-            x_colors: ['rgba(109, 97, 164, 1)', 'rgba(72, 167, 219, 1)'],
+            stroke_width: 2,
+            x_colors: ['rgba(109, 97, 164, 1)', 'rgba(89, 79, 134, 1)', 'rgba(255, 255, 255, 1)', 'rgba(92, 188, 240, 1)', 'rgba(72, 167, 219, 1)'],
             y_colors: 'match_x'
         }).svg(); // Render as SVG.
 
