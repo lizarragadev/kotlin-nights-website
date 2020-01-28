@@ -55,7 +55,7 @@ var demo = (function (window) {
             variance: 1,
             stroke_width: 1,
             x_colors: ['rgba(109, 97, 164, 1)', 'rgba(72, 167, 219, 1)'],
-            y_colors: ['rgba(109, 97, 164, 1)', 'rgba(72, 167, 219, 1)']
+            y_colors: 'match_x'
         }).svg(); // Render as SVG.
 
         _mapPolygons(pattern);
