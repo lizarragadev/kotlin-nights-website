@@ -51,10 +51,10 @@ var demo = (function (window) {
         var pattern = Trianglify({
             width: window.innerWidth,
             height: window.innerHeight,
-            cell_size: 90,
+            cell_size: 60,
             variance: 1,
             stroke_width: 2,
-            x_colors: ['rgba(109, 97, 164, 1)', 'rgba(89, 79, 134, 1)', 'rgba(255, 255, 255, 1)', 'rgba(92, 188, 240, 1)', 'rgba(72, 167, 219, 1)'],
+            x_colors: ['#FF6138', '#FFFF9D', '#BEEB9F', '#79BD8F', '#00A388'],
             y_colors: 'match_x'
         }).svg(); // Render as SVG.
 
@@ -66,6 +66,8 @@ var demo = (function (window) {
 
         _triggerOpenCard('', _getHashFromURL(location.href));
     };
+
+    // x_colors: ['rgba(109, 97, 164, 1)', 'rgba(89, 79, 134, 1)', 'rgba(255, 255, 255, 1)', 'rgba(92, 188, 240, 1)', 'rgba(72, 167, 219, 1)'],
 
     /**
      * Store path elements, map coordinates and sizes.
