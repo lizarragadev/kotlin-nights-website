@@ -1,10 +1,10 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "Código de conducta"
+subtitle: "Reglas en los Kotlin Nighst"
+author: "Gustavo Lizárraga"
+avatar: "img/authors/profile.png"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   2020-01-15 03:11:03
 ---
 
 ### Dolor sit amet?
