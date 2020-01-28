@@ -54,7 +54,7 @@ var demo = (function (window) {
             cell_size: 100,
             variance: 1,
             stroke_width: 2,
-            x_colors: ['#403769', '#403769', '#6d61a4', '#6d61a4', '#FFFFFF', '#48a7db', '#48a7db', '#2d78a1', '#2d78a1'],
+            x_colors: ['#403769', '#403769', '#6d61a4', '#6d61a4', '#48a7db', '#48a7db', '#2d78a1', '#2d78a1'],
             y_colors: 'match_x'
         }).svg(); // Render as SVG.
 
