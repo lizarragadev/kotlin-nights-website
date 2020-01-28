@@ -51,7 +51,7 @@ var demo = (function (window) {
         var pattern = Trianglify({
             width: window.innerWidth,
             height: window.innerHeight,
-            cell_size: 120,
+            cell_size: 100,
             variance: 1,
             stroke_width: 2,
             x_colors: ['#403769', '#403769', '#6d61a4', '#6d61a4', '#FFFFFF', '#48a7db', '#48a7db', '#2d78a1', '#2d78a1'],
