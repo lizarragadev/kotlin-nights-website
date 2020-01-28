@@ -1,7 +1,7 @@
 ---
-title:  "Kotlin Nights"
-subtitle: "Iniciando la evangelización de Kotlin en La Paz"
-author: "lizarragadev"
+title:  "¿Qué son los Kotlin Nights?"
+subtitle: "Iniciando la evangelización de Kotlin en La Paz Bolivia."
+author: "Gustavo Lizárraga"
 avatar: "img/authors/profile.png"
 image: "img/a.jpg"
 date:   2020-01-10 12:10:00

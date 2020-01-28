@@ -1,10 +1,10 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "Auspiciadores"
+subtitle: "Empresas que hacen posible los Kotlin Nights La Paz."
+author: "Gustavo Lizárraga"
+avatar: "img/authors/profile.png"
 image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+date:   2020-01-20 12:12:12
 ---
 
 ### Dolor sit amet?

@@ -54,7 +54,7 @@ var demo = (function (window) {
             cell_size: 90,
             variance: 1,
             stroke_width: 1,
-            x_colors: 'random',
+            x_colors: ['rgba(109, 97, 164, 1)', 'rgba(72, 167, 219, 1)'],
             y_colors: 'random'
         }).svg(); // Render as SVG.
 
