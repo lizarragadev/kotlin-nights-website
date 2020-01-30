@@ -7,8 +7,27 @@ image: "img/a.jpg"
 date:   2020-01-10 12:10:00
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### ¿Qué son los Kotlin Nights?
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+Kotlin Night es una iniciativa de Jetbrains para evangelizar el lenguaje de programación Kotlin en un formato de evento Meetup, en el cuál la temática específica es solamente Kotlin como lenguaje de programación y posteriormente se podría hablar de Kotlin para las distintas plataformas.
+
+### ¿En qué ciudades se lleva a cabo?
+
+Los Kotlin Nights se llevan a cabo en distintas ciudades del mundo, en ésta ocasión la llevamos a cabo en la ciudad de La Paz con un formato innovador.
+
+### ¿Con qué frecuencia se llevan a cabo los Kotlin Nights?
+
+En la ciudad de La Paz se llevan a cabo una vez al mes, durante todo el 2020.
+
+### ¿Qué formato tienen los Kotlin Nights La Paz?
+
+El formato es una mezcla que creemos podrá gustar a la gente.
+Inicialmente se elige el tópico específico de Kotlin que se tocará en el Meetup, luego de ello se generan 4 presentaciones que podemos describirlas de la siguiente manera:
+- Kotlin Talk: Consta de una charla, en la cuál el(la) expositor(a) explica la parte teórica del tópico elegido para el día, el cuál será dictado por alguien experimentado en el tema.
+- Kotlin Workshop: Consta de un taller práctico, que está enfocado en realizar la práctica del previo Kotlin Talk, el cuál será dictado por alguien experimentado en el tema.
+- Kotlin Lightning Talk: Consta de una charla relámpago de 5 minutos para abrir las puertas a nuevos expositores y puedan compartir algo que hayan aprendido de Kotlin en solamente 5 minutos, de esa forma fomentamos el crecimiento y aumento de expositores en el área.
+- Kotlin Experience Talk: Consta de una charla de alguien que haya realizado la implementación de Kotlin en la vida real, es decir que haya realizado un proyecto o varios en Kotlin en la vida real y nos cuente su experiencia de uso del lenguaje y por que deberíamos darle más empuje.
+
+### ¿Quién organiza los Kotlin Nights?
+
+Los Kotlin Nights son organizados por la comunidad Kotlin La Paz con apoyo del Facebook Developer Circle La Paz.
