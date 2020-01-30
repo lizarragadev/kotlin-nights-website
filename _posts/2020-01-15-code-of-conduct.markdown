@@ -3,7 +3,7 @@ title:  "Código de conducta"
 subtitle: "Reglas en los Kotlin Nighst"
 author: "Gustavo Lizárraga"
 avatar: "img/authors/profile.png"
-image: "img/b.jpg"
+image: "img/knights/BannerK2.png"
 date:   2020-01-15 03:11:03
 ---
 
