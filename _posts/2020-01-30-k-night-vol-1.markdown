@@ -2,12 +2,11 @@
 title:  "Kotlin init { }"
 subtitle: "Kotlin Nights | Vol. 1"
 author: "Gustavo Lizárraga"
-avatar: "img/knights/KNight_1.png"
-image: "img/d.jpg"
+avatar: "img/authors/profile.png"
+image: "img/knights/KNight_1.png"
 date:   2020-01-30 21:15:00
 ---
 
 ### Primer Kotlin Night
 
 Éste 30 de Enero llevamos a cabo nuestro primer encuentro en la ciudad de La Paz, el tópico elegido para ésta ocasión fué: **Kotlin init { }** haciendo referencia al inicio y vimos cosas básicas del desarrollo de aplicaciones con Kotlin.
-

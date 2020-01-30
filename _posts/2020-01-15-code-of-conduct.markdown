@@ -11,7 +11,7 @@ date:   2020-01-15 03:11:03
 
 Para poder tener ciertas normas en los Kotlin Nights se presenta el código de conducta.
 
-<object data="docs/CodeOfConduct.pdf" type="application/pdf" width="700px" height="700px">
+<object data="docs/CodeOfConduct.pdf" type="application/pdf" width="650px" height="800px">
     <embed src="docs/CodeOfConduct.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://nights.kotlinlapaz.dev/docs/CodeOfConduct.pdf">Download PDF</a>.</p>
     </embed>
