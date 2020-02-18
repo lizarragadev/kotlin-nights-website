@@ -10,7 +10,7 @@ date:   2020-01-30 21:15:00
 ¿Sabías que...?
 
 Según la útlima **[encuesta](https://insights.stackoverflow.com/survey/2019
-)** llevada a cabo por **[Stackoverflow](https://stackoverflow.com/)** el año 2019 podemos sacar dos datos importantes: 
+){:target="_blank"}** llevada a cabo por **[Stackoverflow](https://stackoverflow.com/){:target="_blank"}** el año 2019 podemos sacar dos datos importantes: 
 
 - Kotlin ocupa el 4to lugar como lenguaje de programación **más querido** con un **72,6%**.
 - Kotlin ocupa el 5to lugar como el lenguaje de programación **más buscado** con un **11,1%**.
@@ -35,11 +35,11 @@ Tuvimos 4 presentaciones que las vemos a continuación:
 
 ### 📢 **Kotlin Talk**
 
-👉 *Kotlin.startsWith("beginner")* - **[Alan Ortíz](https://alan.com)**
+👉 *Kotlin.startsWith("beginner")* - **[Alan Ortiz](https://www.facebook.com/alandavi.ortizvargas){:target="_blank"}**
 
 ![Alan Ortiz](img/posts/pics/FotoAlan.svg "Alan Ortiz")
 
-Puedes encontrar su presentación en: **[Slides](https://slides.com/alanortiz/kotlin#/)**
+Puedes encontrar su presentación en: **[Slides](https://slides.com/alanortiz/kotlin#/){:target="_blank"}**
 
 **Alan** nos habló acerca de los inicios de Kotlin, cuando se lanzó oficialmente allá por el año 2017 en el **Google I/O**, además de todo el funcionamiento interno que tiene con relación a Java.
 
@@ -49,11 +49,11 @@ Y terminó dándonos 10 razones por las que debemos utilizar Kotlin en el desarr
 
 ### 💻 **Kotlin Workshop** 
 
-👉 *Kotlin Demo* - **[Gustavo Lizárraga](https://lizarraga.dev)**
+👉 *Kotlin Demo* - **[Gustavo Lizárraga](https://lizarraga.dev){:target="_blank"}**
 
 ![Gustavo Lizárraga](img/posts/pics/Foto1.svg "Gustavo Lizárraga")
 
-Puedes encontrar el demo realizado en: **[GitHub](https://github.com/lizarragadev/KotlinNight-Vol_1-Demo)**
+Puedes encontrar el demo realizado en: **[GitHub](https://github.com/lizarragadev/KotlinNight-Vol_1-Demo){:target="_blank"}**
 
 Yo hice unos demos de creación de variables, constantes, funciones y estructuras cíclicas, explicando un poco la estructura de Kotlin como lenguaje de programación y recalcando algunos puntos vistos en la charla anterior.
 
@@ -65,12 +65,7 @@ Finalmente vimos un poco el manejo de nulos y la forma correcta de accederlo.
 
 ![Corali Almanza](img/posts/pics/FotoCorali.svg "Corali Almanza")
 
-Puedes encontrar sus presentación en: 
-[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft){:target="_blank"}
-
-**[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft){:target="_blank"}**
-
-**[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft)**
+Puedes encontrar sus presentación en: **[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft){:target="_blank"}**
 
 **Corali** en 5 minutos nos mostró 5 de los beneficios que ella encontró del por qué utilizar **Kotlin** y esos son:
     
@@ -82,11 +77,11 @@ Puedes encontrar sus presentación en:
 
 ### 📢 **Kotlin Experience Talk** 
 
-👉 *Migración de Java a Kotlin* - **[Armando Picón](https://devpicon.com()**
+👉 *Migración de Java a Kotlin* - **[Armando Picón](https://medium.com/@devpicon){:target="_blank"}**
 
 ![Armando Picón](img/posts/pics/FotoArmando.svg "Armando Picón")
 
-Puedes encontrar el demo realizado en: **[GitHub](enlace)**
+Puedes encontrar el demo realizado en: **[GitHub](enlace){:target="_blank"}**
 
  **Armando** nos habló un poco acerca de su experiencia trabajando con Kotlin durante los últimos años, asimismo nos hizo un *live coding* de las buenas prácticas para poder migrar una aplicación desarrollada en Java a Kotlin y lo resumió en 10 consejos muy útiles para migración:
 
