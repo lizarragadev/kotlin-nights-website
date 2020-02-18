@@ -35,7 +35,9 @@ Tuvimos 4 presentaciones que las vemos a continuación:
 
 ### 📢 **Kotlin Talk** | Kotlin.startsWith("beginner") | [Alan Ortíz](https://alan.com)
 
-    > Puedes encontrar su presentación en: [Slides](https://slides.com/alanortiz/kotlin#/)
+    ![Alan Ortiz](img/posts/pics/Foto1.svg "Alan Ortiz")
+
+    Puedes encontrar su presentación en: [Slides](https://slides.com/alanortiz/kotlin#/)
 
     **Alan** nos habló acerca de los inicios de Kotlin, cuando se lanzó oficialmente allá por el año 2017 en el **Google I/O**, además de todo el funcionamiento interno que tiene con relación a Java.
 
