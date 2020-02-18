@@ -20,35 +20,36 @@ Esos datos nos animan a poder decir: **¡Estamos en el camino correcto!**
 Por ello llevamos a cabo los **Kotlin Nights**.
 
 ## **Kotlin Nights | Vol. 1**
-
+---
 El pasado 30 de enero llevamos a cabo el primer **Kotlin Night** del 2020, enfocado en iniciar con lo básico en el cuál tuvimos 4 estupendos expositores.
 
 Si quieres ver la repetición grabada del **Kotlin Nights | Vol. 1** puedes hacerlo haciendo click en el siguiente video.
 
-
-[![Kotlin Night | Vol. 1](https://img.youtube.com/vi/HYTBsTieMPk/0.jpg)](https://www.youtube.com/watch?v=HYTBsTieMPk)
-
+[![Kotlin Nights | Vol. 1](http://img.youtube.com/vi/HYTBsTieMPk/0.jpg)](http://www.youtube.com/watch?v=HYTBsTieMPk "Kotlin Nights | Vol. 1")
 
 ## **Te presento un resumen.**
-
+---
 Tuvimos 4 presentaciones que las vemos a continuación:
 
 ### 📢 **Kotlin Talk**
 
-👉 *Kotlin.startsWith("beginner")*  |  __**[Alan Ortíz](https://alan.com)**__
+👉 *Kotlin.startsWith("beginner")*  |  **[Alan Ortíz](https://alan.com)**
 
 ![Alan Ortiz](img/posts/pics/Foto1.svg "Alan Ortiz")
 
-Puedes encontrar su presentación en: __**[Slides](https://slides.com/alanortiz/kotlin#/)**__
+Puedes encontrar su presentación en: **[Slides](https://slides.com/alanortiz/kotlin#/)**
 
 **Alan** nos habló acerca de los inicios de Kotlin, cuando se lanzó oficialmente allá por el año 2017 en el **Google I/O**, además de todo el funcionamiento interno que tiene con relación a Java.
 
+También nos mostró las aplicaciones que migraron de Java a Kotlin como lo son Trello, Uber, entre otras.
+
+Y terminó dándonos 10 razones por las que debemos utilizar Kotlin en el desarrollo de nuestras aplicaciones.
 
 ### 💻 **Kotlin Workshop** | Kotlin samples | [Gustavo Lizárraga](https://lizarraga.dev)
 
-    > Puedes encontrar el demo realizado en: [GitHub](https://github.com/lizarragadev/KotlinNight-Vol_1-Demo)
+Puedes encontrar el demo realizado en: [GitHub](https://github.com/lizarragadev/KotlinNight-Vol_1-Demo)
 
-    En 
+ 
 
 
 ### 📢⚡️ **Kotlin Lightning Talk** | 5 beneficios de usar Kotlin | [Corali Almanza](https://corali.com)
@@ -80,7 +81,7 @@ Puedes encontrar su presentación en: __**[Slides](https://slides.com/alanortiz/
 Si deseas ver a detalle cada una de las presentaciones te invito a darle click al video grabación del **Kotlin Night | Vol. 1**.
 
 ## **¡Ahora es tu turno!**
-
+---
 Pudimos ver distintas cosas iniciales de **Kotlin** como lenguaje de programación, desde los conceptos, modo de ejecución, similitudes con Java, cosas interesantes que tiene este lenguaje, ejemplos prácticos y cerramos con una persona experimentada animándonos a ingresar más a profundidad a aprender y ***Kotlinearnos***.
 
 ¡Es hora que actues con todo lo aprendido!
