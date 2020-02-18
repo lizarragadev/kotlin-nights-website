@@ -25,7 +25,15 @@ El pasado 30 de enero llevamos a cabo el primer **Kotlin Night** del 2020, enfoc
 
 Si quieres ver la repetición grabada del **Kotlin Nights | Vol. 1** puedes hacerlo haciendo click en el siguiente video.
 
-[![Kotlin Nights | Vol. 1](http://img.youtube.com/vi/HYTBsTieMPk/0.jpg)](http://www.youtube.com/watch?v=HYTBsTieMPk "Kotlin Nights | Vol. 1")
+
+[![Kotlin Nights | Vol. 1](https://img.youtube.com/vi/HYTBsTieMPk/0.jpg)](http://www.youtube.com/watch?v=HYTBsTieMPk "Kotlin Nights | Vol. 1")
+
+
+{media}(youtube::-HYTBsTieMPk::420)
+
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/HYTBsTieMPk" frameborder="0" allowfullscreen></iframe>
+
 
 ## **Te presento un resumen.**
 ---
