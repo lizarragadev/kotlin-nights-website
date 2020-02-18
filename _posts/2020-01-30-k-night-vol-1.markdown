@@ -65,7 +65,12 @@ Finalmente vimos un poco el manejo de nulos y la forma correcta de accederlo.
 
 ![Corali Almanza](img/posts/pics/FotoCorali.svg "Corali Almanza")
 
-Puedes encontrar sus presentación en: **[PDF](https://github.com/lizarragadev/kotlin-nights-website/blob/gh-pages/img/posts/docs/5BeneficiosDeUsarKotlin.pdf)**
+Puedes encontrar sus presentación en: 
+[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft){:target="_blank"}
+
+**[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft){:target="_blank"}**
+
+**[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft)**
 
 **Corali** en 5 minutos nos mostró 5 de los beneficios que ella encontró del por qué utilizar **Kotlin** y esos son:
     
