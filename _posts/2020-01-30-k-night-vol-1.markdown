@@ -37,7 +37,7 @@ Tuvimos 4 presentaciones que las vemos a continuación:
 
 👉 *Kotlin.startsWith("beginner")* - **[Alan Ortíz](https://alan.com)**
 
-![Alan Ortiz](img/posts/pics/Foto1.svg "Alan Ortiz")
+![Alan Ortiz](img/posts/pics/FotoAlan.svg "Alan Ortiz")
 
 Puedes encontrar su presentación en: **[Slides](https://slides.com/alanortiz/kotlin#/)**
 
@@ -63,7 +63,7 @@ Finalmente vimos un poco el manejo de nulos y la forma correcta de accederlo.
 
 👉 5 beneficios de usar Kotlin - **[Corali Almanza](https://corali.com)**
 
-![Corali Almanza](img/posts/pics/Foto1.svg "Corali Almanza")
+![Corali Almanza](img/posts/pics/FotoCorali.svg "Corali Almanza")
 
 Puedes encontrar sus presentación en: **[PDF](https://github.com/lizarragadev/kotlin-nights-website/blob/gh-pages/img/posts/docs/5BeneficiosDeUsarKotlin.pdf)**
 
@@ -79,7 +79,7 @@ Puedes encontrar sus presentación en: **[PDF](https://github.com/lizarragadev/k
 
 👉 *Migración de Java a Kotlin* - **[Armando Picón](https://devpicon.com()**
 
-![Armando Picón](img/posts/pics/Foto1.svg "Armando Picón")
+![Armando Picón](img/posts/pics/FotoArmando.svg "Armando Picón")
 
 Puedes encontrar el demo realizado en: **[GitHub](enlace)**
 
@@ -102,9 +102,14 @@ De esa forma finalizamos con el primer **Kotlin Night** del año.
 ---
 Aparte de aprender cosas geniales de **Kotlin** en todas las presentaciones, tuvimos un momento para degustar Pizzas y gaseosa, además de poder realizar un concurso para regalar los distintos souvenirs que teniamos.
 
-![Comida](img/posts/pics/Foto1.svg "Comida")
+![Comida](img/posts/pics/FotoPizzas.svg "Comida")
 
 *Pizzas en el Kotlin Night*
+
+![Premios](img/posts/pics/FotoPremios1.svg "Premios")
+![Premios](img/posts/pics/FotoPremios2.svg "Premios")
+
+*Premios en el Kotlin Night*
 
 ![Ganadores concurso](img/posts/pics/Foto1.svg "Ganadores concurso")
 
