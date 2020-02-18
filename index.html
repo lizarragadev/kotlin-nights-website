@@ -1,5 +1,6 @@
 ---
 layout: compress
+comments: true
 ---
 <!DOCTYPE html>
 <html lang="en" class="no-js">
@@ -68,6 +69,7 @@ layout: compress
                                 <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
                             </div>
                             {{ post.content }}
+                            {% if page.comments %} {% endif %}
                         </div>
                     </div>
                 </div>
