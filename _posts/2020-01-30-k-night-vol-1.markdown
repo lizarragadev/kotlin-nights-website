@@ -26,13 +26,30 @@ El pasado 30 de enero llevamos a cabo el primer **Kotlin Night** del 2020, enfoc
 Si quieres ver la repetición grabada del **Kotlin Nights | Vol. 1** puedes hacerlo haciendo click en el siguiente video.
 
 
-[![Kotlin Nights | Vol. 1](https://img.youtube.com/vi/HYTBsTieMPk/0.jpg)](http://www.youtube.com/watch?v=HYTBsTieMPk "Kotlin Nights | Vol. 1")
+[![Kotlin Nights | Vol. 1](https://img.youtube.com/vi/HYTBsTieMPk/0.jpg)](https://www.youtube.com/watch?v=HYTBsTieMPk "Kotlin Nights | Vol. 1")
 
 
-{media}(youtube::-HYTBsTieMPk::420)
+{media}(youtube::HYTBsTieMPk::420)
 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/HYTBsTieMPk" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=HYTBsTieMPk
+" target="_blank"><img src="https://img.youtube.com/vi/HYTBsTieMPk/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HYTBsTieMPk" frameborder="0" allowfullscreen></iframe>
+
+
+[![Everything Is AWESOME](https://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
+[![Little red ridning hood](https://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 
 ## **Te presento un resumen.**
