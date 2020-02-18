@@ -25,6 +25,11 @@ comments: true
             root.setAttribute('class', 'ff');
         }
     </script>
+
+    <script>
+        document.cookie = 'same-site-cookie=foo; SameSite=Lax'; 
+        document.cookie = 'cross-site-cookie=bar; SameSite=None; Secure';
+    </script>
 </head>
 <body class="body">
 <div class="container">
