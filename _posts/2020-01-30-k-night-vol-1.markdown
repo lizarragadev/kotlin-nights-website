@@ -69,11 +69,11 @@ Puedes encontrar sus presentación en: **[PDF](https://drive.google.com/open?id=
 
 **Corali** en 5 minutos nos mostró 5 de los beneficios que ella encontró del por qué utilizar **Kotlin** y esos son:
     
-    1. Código conciso.
-    2. Fácil curva de aprendizaje.
-    3. Compilación rápida. 
-    4. Seguridad nula.
-    5. Se adapta al desarrollo multiplataforma.
+1. Código conciso.
+2. Fácil curva de aprendizaje.
+3. Compilación rápida. 
+4. Seguridad nula.
+5. Se adapta al desarrollo multiplataforma.
 
 ### 📢 **Kotlin Experience Talk** 
 
@@ -129,5 +129,5 @@ Pudimos ver distintas cosas iniciales de **Kotlin** como lenguaje de programaci�
 Te recomiendo responder las siguiente preguntas:
 ¿Qué te pareció Kotlin?, ¿Crees que es fácil aprenderlo?, ¿Tienes ganas de tomar algún curso para profundizar todo?, ¿Que futuro le ves a Kotlin? Hazmelo saber en los comentarios y no olvides compartirlo con tus amigos en tus redes sociales.
 
-> *Recuerda: **Nunca pares de aprender y nunca pares de compartir lo aprendido.***
+> *Recuerda: **Nunca pares de aprender.**
 

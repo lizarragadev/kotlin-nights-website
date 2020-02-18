@@ -5,3 +5,4 @@ keywords: Kotlin, Kotlin Nights, Android
 author: lizarragadev
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://nights.kotlinlapaz.dev" # the base hostname & protocol for your site
+comments: true
