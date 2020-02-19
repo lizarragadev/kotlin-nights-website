@@ -6,8 +6,7 @@ avatar: "img/authors/profile.png"
 image: "img/posts/vol1/BannerPost.jpg"
 date:   2020-02-20 21:15:00
 ---
-**¿Sabías que...?**
-
+## **¿Sabías que...?**
 ---
 
 Según la útlima **[encuesta](https://insights.stackoverflow.com/survey/2019
@@ -133,5 +132,5 @@ Pudimos ver distintas cosas iniciales de **Kotlin** como lenguaje de programaci�
 Te recomiendo responder las siguiente preguntas:
 **¿Qué te pareció Kotlin?**, **¿Crees que es fácil aprenderlo?**, **¿Tienes ganas de tomar algún curso para profundizar todo?**, **¿Que futuro le ves a Kotlin?** Házmelo saber en los comentarios y no olvides compartirlo con tus amigos en tus redes sociales.
 
-**¡Aprende algo y compártelo!**
+Y nunca olvides la frase: **¡Aprende algo y compártelo!**
 
