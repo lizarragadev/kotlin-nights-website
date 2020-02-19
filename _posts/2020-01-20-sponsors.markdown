@@ -1,6 +1,6 @@
 ---
 title:  "Auspiciadores"
-subtitle: "Empresas que hacen posible los Kotlin Nights La Paz."
+subtitle: "Apoyo a Kotlin Nights La Paz."
 author: "Gustavo Lizárraga"
 avatar: "img/authors/profile.png"
 image: "img/knights/BannerK2.png"

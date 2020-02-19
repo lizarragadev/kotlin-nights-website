@@ -6,6 +6,9 @@ avatar: "img/authors/profile.png"
 image: "img/posts/vol1/BannerPost.jpg"
 date:   2020-02-20 21:15:00
 ---
+
+<img src="img/knights/knightlogo.png" alt="K-Night" class="responsive" width="50%">
+
 ## **¿Sabías que...?**
 ---
 
