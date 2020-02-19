@@ -3,11 +3,11 @@ title:  "Kotlin init { }"
 subtitle: "Kotlin Nights | Vol. 1"
 author: "Gustavo Lizárraga"
 avatar: "img/authors/profile.png"
-image: "img/knights/BannerK1.png"
+image: "img/posts/vol1/BannerPost.jpg"
 date:   2020-02-20 21:15:00
 ---
 
-<img src="img/posts/pics/FotoSpeaker.jpg" alt="Speakers" class="responsive">
+<img src="img/posts/vol1/FotoSpeaker.jpg" alt="Speakers" class="responsive">
 
 ¿Sabías que...?
 
@@ -39,7 +39,7 @@ Tuvimos 4 presentaciones que las vemos a continuación:
 
 👉 *Kotlin.startsWith("beginner")* - **[Alan Ortiz](https://www.facebook.com/alandavi.ortizvargas){:target="_blank"}**
 
-<img src="img/posts/pics/FotoAlan.jpg" alt="Alan Ortiz" class="responsive">
+<img src="img/posts/vol1/FotoAlan.jpg" alt="Alan Ortiz" class="responsive">
 
 Puedes encontrar su presentación en: **[Slides](https://slides.com/alanortiz/kotlin#/){:target="_blank"}**
 
@@ -53,7 +53,7 @@ Y terminó dándonos 10 razones por las que debemos utilizar Kotlin en el desarr
 
 👉 *Kotlin Demo* - **[Gustavo Lizárraga](https://lizarraga.dev){:target="_blank"}**
 
-<img src="img/posts/pics/FotoGustavo.jpg" alt="Gustavo Lizárraga" class="responsive">
+<img src="img/posts/vol1/FotoGustavo.jpg" alt="Gustavo Lizárraga" class="responsive">
 
 Puedes encontrar el demo realizado en: **[GitHub](https://github.com/lizarragadev/KotlinNight-Vol_1-Demo){:target="_blank"}**
 
@@ -65,7 +65,7 @@ Finalmente vimos un poco el manejo de nulos y la forma correcta de accederlo.
 
 👉 5 beneficios de usar Kotlin - **[Corali Almanza](https://corali.com)**
 
-<img src="img/posts/pics/FotoCorali.jpg" alt="Corali Almanza" class="responsive">
+<img src="img/posts/vol1/FotoCorali.jpg" alt="Corali Almanza" class="responsive">
 
 Puedes encontrar sus presentación en: **[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft){:target="_blank"}**
 
@@ -81,7 +81,7 @@ Puedes encontrar sus presentación en: **[PDF](https://drive.google.com/open?id=
 
 👉 *Migración de Java a Kotlin* - **[Armando Picón](https://medium.com/@devpicon){:target="_blank"}**
 
-<img src="img/posts/pics/FotoArmando.jpg" alt="Armando Picón" class="responsive">
+<img src="img/posts/vol1/FotoArmando.jpg" alt="Armando Picón" class="responsive">
 
 Puedes encontrar el demo realizado en: **[GitHub](enlace){:target="_blank"}**
 
@@ -104,22 +104,22 @@ De esa forma finalizamos con el primer **Kotlin Night** del año.
 ---
 Aparte de aprender cosas geniales de **Kotlin** en todas las presentaciones, tuvimos un momento para degustar Pizzas y gaseosa, además de poder realizar un concurso para regalar los distintos souvenirs que teniamos.
 
-<img src="img/posts/pics/FotoPizzas.jpg" alt="Pizzas" class="responsive">
+<img src="img/posts/vol1/FotoPizzas.jpg" alt="Pizzas" class="responsive">
 
 *Pizzas en el Kotlin Night*
 
-<img src="img/posts/pics/FotoPremios1.jpg" alt="Premios" class="responsive">
-<img src="img/posts/pics/FotoPremios2.jpg" alt="Premios" class="responsive">
+<img src="img/posts/vol1/FotoPremios1.jpg" alt="Premios" class="responsive">
+<img src="img/posts/vol1/FotoPremios2.jpg" alt="Premios" class="responsive">
 
 *Premios en el Kotlin Night*
 
-<img src="img/posts/pics/FotoGanadores2.jpg" alt="Ganadores concurso" class="responsive">
+<img src="img/posts/vol1/FotoGanadores2.jpg" alt="Ganadores concurso" class="responsive">
 
 *Nuestros ganadores del concurso con preguntas técnicas de todas las presentaciones del Kotlin Night*
 
 Si deseas ver a detalle cada una de las presentaciones te invito a darle click al video grabación del **Kotlin Night - Vol. 1**.
 
-<img src="img/posts/pics/FotoAsistentes.jpg" alt="Asistentes Kotlin Night" class="responsive">
+<img src="img/posts/vol1/FotoAsistentes.jpg" alt="Asistentes Kotlin Night" class="responsive">
 
 *Muchas gracias a todos los que asistieron.*
 
