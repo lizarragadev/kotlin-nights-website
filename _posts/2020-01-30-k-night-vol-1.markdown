@@ -4,7 +4,7 @@ subtitle: "Kotlin Nights | Vol. 1"
 author: "Gustavo Lizárraga"
 avatar: "img/authors/profile.png"
 image: "img/knights/BannerK1.png"
-date:   2020-01-30 21:15:00
+date:   2020-02-20 21:15:00
 ---
 
 ¿Sabías que...?
@@ -37,7 +37,7 @@ Tuvimos 4 presentaciones que las vemos a continuación:
 
 👉 *Kotlin.startsWith("beginner")* - **[Alan Ortiz](https://www.facebook.com/alandavi.ortizvargas){:target="_blank"}**
 
-![Alan Ortiz](img/posts/pics/FotoAlan.svg "Alan Ortiz")
+![Alan Ortiz](img/posts/pics/FotoAlan.jpg "Alan Ortiz")
 
 Puedes encontrar su presentación en: **[Slides](https://slides.com/alanortiz/kotlin#/){:target="_blank"}**
 
@@ -51,7 +51,7 @@ Y terminó dándonos 10 razones por las que debemos utilizar Kotlin en el desarr
 
 👉 *Kotlin Demo* - **[Gustavo Lizárraga](https://lizarraga.dev){:target="_blank"}**
 
-![Gustavo Lizárraga](img/posts/pics/Foto1.svg "Gustavo Lizárraga")
+![Gustavo Lizárraga](img/posts/pics/FotoGustavo.jpg "Gustavo Lizárraga")
 
 Puedes encontrar el demo realizado en: **[GitHub](https://github.com/lizarragadev/KotlinNight-Vol_1-Demo){:target="_blank"}**
 
@@ -63,7 +63,7 @@ Finalmente vimos un poco el manejo de nulos y la forma correcta de accederlo.
 
 👉 5 beneficios de usar Kotlin - **[Corali Almanza](https://corali.com)**
 
-![Corali Almanza](img/posts/pics/FotoCorali.svg "Corali Almanza")
+![Corali Almanza](img/posts/pics/FotoCorali.jpg "Corali Almanza")
 
 Puedes encontrar sus presentación en: **[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft){:target="_blank"}**
 
@@ -79,7 +79,7 @@ Puedes encontrar sus presentación en: **[PDF](https://drive.google.com/open?id=
 
 👉 *Migración de Java a Kotlin* - **[Armando Picón](https://medium.com/@devpicon){:target="_blank"}**
 
-![Armando Picón](img/posts/pics/FotoArmando.svg "Armando Picón")
+![Armando Picón](img/posts/pics/FotoArmando.jpg "Armando Picón")
 
 Puedes encontrar el demo realizado en: **[GitHub](enlace){:target="_blank"}**
 
@@ -102,22 +102,22 @@ De esa forma finalizamos con el primer **Kotlin Night** del año.
 ---
 Aparte de aprender cosas geniales de **Kotlin** en todas las presentaciones, tuvimos un momento para degustar Pizzas y gaseosa, además de poder realizar un concurso para regalar los distintos souvenirs que teniamos.
 
-![Comida](img/posts/pics/FotoPizzas.svg "Comida")
+![Comida](img/posts/pics/FotoPizzas.jpg "Comida")
 
 *Pizzas en el Kotlin Night*
 
-![Premios](img/posts/pics/FotoPremios1.svg "Premios")
-![Premios](img/posts/pics/FotoPremios2.svg "Premios")
+![Premios](img/posts/pics/FotoPremios1.jpg "Premios")
+![Premios](img/posts/pics/FotoPremios2.jpg "Premios")
 
 *Premios en el Kotlin Night*
 
-![Ganadores concurso](img/posts/pics/Foto1.svg "Ganadores concurso")
+![Ganadores concurso](img/posts/pics/FotoGanadores2.jpg "Ganadores concurso")
 
 *Nuestros ganadores del concurso con preguntas técnicas de todas las presentaciones del Kotlin Night*
 
 Si deseas ver a detalle cada una de las presentaciones te invito a darle click al video grabación del **Kotlin Night - Vol. 1**.
 
-![Asistentes Kotlin Night](img/posts/pics/Foto1.svg "Asistentes Kotlin Night")
+![Asistentes Kotlin Night](img/posts/pics/FotoAsistentes.jpg "Asistentes Kotlin Night")
 
 *Muchas gracias a todos los que asistieron.*
 
@@ -127,7 +127,7 @@ Pudimos ver distintas cosas iniciales de **Kotlin** como lenguaje de programaci�
 
 ¡Es hora que actues con todo lo aprendido!
 Te recomiendo responder las siguiente preguntas:
-¿Qué te pareció Kotlin?, ¿Crees que es fácil aprenderlo?, ¿Tienes ganas de tomar algún curso para profundizar todo?, ¿Que futuro le ves a Kotlin? Hazmelo saber en los comentarios y no olvides compartirlo con tus amigos en tus redes sociales.
+**¿Qué te pareció Kotlin?**, **¿Crees que es fácil aprenderlo?**, **¿Tienes ganas de tomar algún curso para profundizar todo?**, **¿Que futuro le ves a Kotlin?** Házmelo saber en los comentarios y no olvides compartirlo con tus amigos en tus redes sociales.
 
-> *Recuerda: **Nunca pares de aprender.**
+> **¡Aprende algo y compártelo!**
 
