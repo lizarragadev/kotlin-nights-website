@@ -16,32 +16,53 @@ Toda actividad requiere de apoyo externo, es por ello que hicimos el esfuerzo de
 
 - **GitHub**
 
+<img src="img/posts/03-sponsors/github.png" alt="GitHub" class="responsive-logo">
+
 GitHub es una plataforma para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. 
+
 Puedes conocer más de **GitHub** en su sitio web: **[GitHub.com](https://github.com/){:target="_blank"}**
 
 - **Auth0**
 
+<img src="img/posts/03-sponsors/auth0.png" alt="Auth0" class="responsive-logo">
+
 ¿Qué es Auth0 y a qué se dedica? 
 "Para decirlo simple, hacemos la cajita de login. La que todos conocemos, la que usamos cuando ingresamos a un servicio en Internet, pago o no, en el que hay que registrarse. Todos odiamos los passwords: bueno, nosotros proveemos esa plataforma para hacerles el trabajo más fácil a los programadores y para que sea más seguro para los usuarios".
+
 Puedes conocer más de **Auth0** en su sitio web: **[Auth0.com](https://auth0.com/){:target="_blank"}**
 
 - **GitKraken**
 
+<img src="img/posts/03-sponsors/gitkraken.png" alt="GitKraken" class="responsive-logo">
+
 GitKraken es una potente y elegante interfaz gráfica multiplataforma para git desarrollada con Electron. De forma muy sencilla podemos llevar el completo seguimiento de nuestros repositorios, ver ramas, tags, crear nuevos, todo el historial de nuestro trabajo, commits etcétera.
+
 Puedes conocer más de **GitKraken** en su sitio web: **[GitKraken.com](https://www.gitkraken.com/){:target="_blank"}**
 
 - **Jetbrains**
 
+<img src="img/posts/03-sponsors/jetbrains.png" alt="Jetbrains" class="responsive-logo">
+
 JetBrains es una compañía de desarrollo de software cuyas herramientas están dirigidas a desarrolladores de software y gerentes de proyectos. La compañía ofrece una familia extendida de entornos de desarrollo integrado (IDE) para los lenguajes de programación Java, Kotlin, Ruby, Python, PHP, C, Objective-C, C ++, C #, Go,8​ JavaScript y SQL.
+
 Puedes conocer más de **Jetbrains** en su sitio web: **[Jetbrains.com](https://www.jetbrains.com/){:target="_blank"}**
 
 - **O'Reilly**
 
+<img src="img/posts/03-sponsors/oreilly.png" alt="O'Reilly" class="responsive-logo">
+
 O'Reilly Media, antes llamada O'Reilly & Associates, es una empresa editorial estadounidense fundada y dirigida por Tim O'Reilly que está principalmente enfocada a libros de tecnología e informática. Usa como distintivo en sus portadas diferentes animales, como un camello, un ratón o una llama.
+
 Puedes conocer más de **O'Reilly** en su sitio web: **[oreilly.com](https://www.oreilly.com/){:target="_blank"}**
 
 - **Link Cowork**
 
-Link CoWork es un espacio de trabajo donde las empresas y emprendimientos pueden crecer juntas.
+<img src="img/posts/03-sponsors/link.png" alt="Link Cowork" class="responsive-logo">
+
+Link Cowork es un espacio de trabajo donde las empresas y emprendimientos pueden crecer juntas.
 Estratégicamente ubicado podrás encontrar espacios abiertos de trabajo, oficinas semi privadas y privadas que cumplirán con tus necesidades. Nuestros espacios fueron diseñados para que equipos de uno o 20 puedan trabajar comoda y productivamente.
+
 Puedes conocer más de **Link Cowork** en su sitio web: **[LinkCowork.com.bo](http://www.linkcowork.com.bo/){:target="_blank"}**
+
+
+Gracias a todos nuestros auspiciadores, dándonos lo necesario para poder llevar a cabo los **Kotlin Nights**.
