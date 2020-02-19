@@ -7,7 +7,7 @@ image: "img/posts/vol1/BannerPost.jpg"
 date:   2020-02-20 21:15:00
 ---
 
-<img src="img/knights/knightlogo.png" alt="K-Night" class="responsive" width="50%" height="50%">
+<img src="img/knights/knightlogo.png" alt="K-Night" width="50%" height="50%">
 
 ## **¿Sabías que...?**
 ---
