@@ -9,6 +9,8 @@ date:   2020-02-20 21:15:00
 
 ![Speakers](img/posts/pics/FotoSpeaker.jpg "Speakers"){:width="560px"}
 
+<img src="img/posts/pics/FotoSpeaker.jpg" alt="Nature" class="responsive">
+
 ¿Sabías que...?
 
 Según la útlima **[encuesta](https://insights.stackoverflow.com/survey/2019
