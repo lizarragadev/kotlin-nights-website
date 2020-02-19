@@ -7,9 +7,9 @@ image: "img/posts/vol1/BannerPost.jpg"
 date:   2020-02-20 21:15:00
 ---
 
-<img src="img/posts/vol1/FotoSpeaker.jpg" alt="Speakers" class="responsive">
+---
 
-¿Sabías que...?
+**¿Sabías que...?**
 
 Según la útlima **[encuesta](https://insights.stackoverflow.com/survey/2019
 ){:target="_blank"}** llevada a cabo por **[Stackoverflow](https://stackoverflow.com/){:target="_blank"}** el año 2019 podemos sacar dos datos importantes: 
@@ -23,6 +23,9 @@ Por ello llevamos a cabo los **Kotlin Nights**.
 
 ## **Kotlin Nights - Vol. 1**
 ---
+
+<img src="img/posts/vol1/FotoSpeaker.jpg" alt="Speakers" class="responsive">
+
 El pasado 30 de enero llevamos a cabo el primer **Kotlin Night** del 2020, enfocado en iniciar con lo básico en el cuál tuvimos 4 estupendos expositores.
 
 Si quieres ver la repetición grabada del **Kotlin Nights Vol. 1** puedes hacerlo haciendo click en el siguiente video.
@@ -131,5 +134,5 @@ Pudimos ver distintas cosas iniciales de **Kotlin** como lenguaje de programaci�
 Te recomiendo responder las siguiente preguntas:
 **¿Qué te pareció Kotlin?**, **¿Crees que es fácil aprenderlo?**, **¿Tienes ganas de tomar algún curso para profundizar todo?**, **¿Que futuro le ves a Kotlin?** Házmelo saber en los comentarios y no olvides compartirlo con tus amigos en tus redes sociales.
 
-> **¡Aprende algo y compártelo!**
+**¡Aprende algo y compártelo!**
 
