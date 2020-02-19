@@ -7,7 +7,7 @@ image: "img/knights/BannerK2.png"
 date:   2020-01-20 12:12:12
 ---
 
-<img src="img/knights/knightlogo.png" alt="K-Night" class="responsive">
+<img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
 
 ### Auspiciadores Kotlin Nights
 ---
