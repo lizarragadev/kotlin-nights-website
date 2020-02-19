@@ -7,7 +7,9 @@ image: "img/posts/vol1/BannerPost.jpg"
 date:   2020-02-20 21:15:00
 ---
 **¿Sabías que...?**
+
 ---
+
 Según la útlima **[encuesta](https://insights.stackoverflow.com/survey/2019
 ){:target="_blank"}** llevada a cabo por **[Stackoverflow](https://stackoverflow.com/){:target="_blank"}** el año 2019 podemos sacar dos datos importantes: 
 
