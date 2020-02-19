@@ -37,7 +37,7 @@ Tuvimos 4 presentaciones que las vemos a continuación:
 
 👉 *Kotlin.startsWith("beginner")* - **[Alan Ortiz](https://www.facebook.com/alandavi.ortizvargas){:target="_blank"}**
 
-![Alan Ortiz](img/posts/pics/FotoAlan.jpg "Alan Ortiz")
+![Alan Ortiz](img/posts/pics/FotoAlan.jpg "Alan Ortiz"){:height="36px" width="36px"}
 
 Puedes encontrar su presentación en: **[Slides](https://slides.com/alanortiz/kotlin#/){:target="_blank"}**
 
