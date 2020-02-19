@@ -9,7 +9,7 @@ date:   2020-01-20 12:12:12
 
 <img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
 
-### Auspiciadores Kotlin Nights
+## Auspiciadores Kotlin Nights
 ---
 
 Toda actividad requiere de apoyo externo, es por ello que hicimos el esfuerzo de poder conseguir patrocinio de algunas empresas que apuestan por nuestras actividades, esas empresas son:
@@ -64,5 +64,8 @@ Estratégicamente ubicado podrás encontrar espacios abiertos de trabajo, oficin
 
 Puedes conocer más de **Link Cowork** en su sitio web: **[LinkCowork.com.bo](http://www.linkcowork.com.bo/){:target="_blank"}**
 
+## Visítalos
+
+Puedes ingresar a sus sitios web para saber más acerca de los servicios y productos que brindan.
 
 Gracias a todos nuestros auspiciadores, dándonos lo necesario para poder llevar a cabo los **Kotlin Nights**.
