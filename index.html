@@ -26,32 +26,21 @@ comments: true
         }
     </script>
 
-        {% if post.title %}
-            <meta content="{{ post.title }}" property="og:title">
-        {% endif %}
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://conductofcode.io/post/social-meta-tags-with-jekyll/" />
+    <meta property="og:title" content="Social meta tags with Jekyll" />
+    <meta property="og:description" content="This is how I added social meta tags to this Jekyll blog to optimize sharing on Facebook, Twitter and Google+." />
+    <meta property="og:image" content="http://conductofcode.io/post/social-meta-tags-with-jekyll/meta.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="Conduct of Code" />
 
-        {% if post.title %}
-            <meta content="article" property="og:type">
-        {% else %}
-            <meta content="website" property="og:type">
-        {% endif %}
-
-        {% if post.subtitle %}
-            <meta content="{{ post.subtitle }}" property="og:description">
-        {% endif %}
-
-        {% if site.url %}
-            <meta content="{{ site.url }}" property="og:url">
-        {% endif %}
-
-        {% if post.date %}
-            <meta content="{{ post.date | date_to_xmlschema }}" property="article:published_time">
-        {% endif %}
-
-        {% if post.image %}
-            <meta content="{{ site.url }}/{{ post.image }}" property="og:image">
-        {% endif %}
-
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@hlaueriksson" />
+    <meta name="twitter:creator" content="@hlaueriksson" />
+    <meta name="twitter:title" content="Social meta tags with Jekyll" />
+    <meta name="twitter:description" content="This is how I added social meta tags to this Jekyll blog to optimize sharing on Facebook, Twitter and Google+." />
+    <meta name="twitter:image" content="http://conductofcode.io/post/social-meta-tags-with-jekyll/meta.png" />
 
 </head>
 <body class="body">
