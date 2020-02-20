@@ -247,7 +247,7 @@ a:focus {
 }
 
 .body .header h1 span {
-	color: #4f4c4c;
+	color: #FFF;
 }
 
 .hidden {
@@ -386,4 +386,8 @@ a:focus {
 	margin-right: auto;
 	width: 50%;
 	height: auto;
+}
+
+.fa-cog {
+	color: white;
 }
