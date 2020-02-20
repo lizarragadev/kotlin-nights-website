@@ -247,7 +247,7 @@ a:focus {
 }
 
 .body .header h1 span {
-	color: #FFF;
+	color: rgb(34, 33, 33);
 }
 
 .hidden {
