@@ -27,48 +27,33 @@ comments: true
     </script>
 
         <meta content="{{ site.title }}" property="og:site_name">
-        {% if site.title %}
-        <meta content="{{ site.title }}" property="og:title">
-        {% else %}
-        <meta content="{{ page.title }}" property="og:title">
+        
+        {% if post.title %}
+        <meta content="{{ post.title }}" property="og:title">
         {% endif %}
 
-        {% if site.title %}
+        {% if post.title %}
         <meta content="article" property="og:type">
         {% else %}
         <meta content="website" property="og:type">
         {% endif %}
 
-        {% if site.description %}
-        <meta content="{{ site.description }}" property="og:description">
+        {% if post.subtitle %}
+        <meta content="{{ post.subtitle }}" property="og:description">
         {% else %}
-        <meta content="{{ page.description }}" property="og:description">
+        <meta content="{{ site.description }}" property="og:description">
         {% endif %}
 
         {% if site.url %}
         <meta content="{{ site.url }}{{ site.url }}" property="og:url">
         {% endif %}
 
-        {% if site.date %}
-        <meta content="{{ site.date | date_to_xmlschema }}" property="article:published_time">
-        <meta content="{{ site.url }}/about/" property="article:author">
+        {% if post.date %}
+        <meta content="{{ post.date | date_to_xmlschema }}" property="article:published_time">
         {% endif %}
 
-        {% if site.image %}
-        <meta content="{{ site.url }}/assets/img/posts/{{ site.image }}" property="og:image">
-        {% else %}
-        <meta content="{{ site.url }}/assets/img/logo-high-resolution.png" property="og:image">
-        {% endif %}
-
-        {% if page.categories %}
-        {% for category in page.categories limit:1 %}
-        <meta content="{{ category }}" property="article:section">
-        {% endfor %}
-        {% endif %}
-        {% if page.tags %}
-        {% for tag in page.tags %}
-        <meta content="{{ tag }}" property="article:tag">
-        {% endfor %}
+        {% if post.image %}
+        <meta content="{{ site.url }}/{{ post.image }}" property="og:image">
         {% endif %}
 
 
