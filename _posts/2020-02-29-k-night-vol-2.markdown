@@ -3,137 +3,149 @@ title:  "Kotlin Multi-paradigma"
 subtitle: "Kotlin Nights | Vol. 2"
 author: "Gustavo Lizárraga"
 avatar: "img/authors/profile.png"
-image: "img/posts/vol1/BannerPost.jpg"
+image: "img/posts/05-vol2/BannerPost.jpg"
 date:   2020-02-29 21:15:00
 ---
 
 <img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
 
-## **¿Sabías que...?**
+## **Kotlin es todo un sancocho de paradigmas**
 ---
 
-Según la útlima **[encuesta](https://insights.stackoverflow.com/survey/2019
-){:target="_blank"}** llevada a cabo por **[Stackoverflow](https://stackoverflow.com/){:target="_blank"}** el año 2019 podemos sacar dos datos importantes: 
+Aprovechando la plática que nos brindó uno de nuestros expositores **Cristian Gómez** podemos decir de que Kotlin es una mezcla de varios paradigmas de programación como lo son: Programación procedural, programación orientada a objetos y programación funcional. Con todo el poder y las características que cada uno de esos paradigmas nos brinda podemos crear cosas muy interesantes en nuestras aplicaciones desarrolladas con Kotlin.
 
-- Kotlin ocupa el 4to lugar como lenguaje de programación **más querido** con un **72,6%**.
-- Kotlin ocupa el 5to lugar como el lenguaje de programación **más buscado** con un **11,1%**.
+En éste nuevo **Kotlin Night** hablamos justamente de ello, todo enfocado a los distintos paradigmas de programación que Kotlin nos brinda y te lo resumiré algunos puntos tocados en cada presentación.
 
-Esos datos nos animan a poder decir: **¡Estamos en el camino correcto!**
-
-Por ello llevamos a cabo los **Kotlin Nights**.
-
-## **Kotlin Nights - Vol. 1**
+## **Kotlin Nights - Vol. 2**
 ---
 
-<img src="img/posts/vol1/FotoSpeaker.jpg" alt="Speakers" class="responsive">
+<img src="img/posts/05-vol2/BannerSpeakers.jpg" alt="Speakers" class="responsive">
 
-El pasado 30 de enero llevamos a cabo el primer **Kotlin Night** del 2020, enfocado en iniciar con lo básico en el cuál tuvimos 4 estupendos expositores.
+El pasado 27 de febrero llevamos a cabo el segundo **Kotlin Night** del 2020, enfocado en **Multi-paradigma** que ofrece Kotlin a los desarrolladores.
 
-Si quieres ver la repetición grabada del **Kotlin Nights Vol. 1** puedes hacerlo haciendo click en el siguiente video.
-
+Si quieres ver la repetición grabada del **Kotlin Nights Vol. 2** puedes hacerlo haciendo click en el siguiente video.
 	
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HYTBsTieMPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## **Te presento un resumen.**
 ---
-Tuvimos 4 presentaciones que las vemos a continuación:
+Tuvimos 5 presentaciones que las vemos a continuación:
 
 ### 📢 **Kotlin Talk**
 
-👉 *Kotlin.startsWith("beginner")* - **[Alan Ortiz](https://www.facebook.com/alandavi.ortizvargas){:target="_blank"}**
+👉 *Sancocho Programming* - **[Cristian Gómez](http://linkedin.com/in/iyubinest/){:target="_blank"}**
 
-<img src="img/posts/vol1/FotoAlan.jpg" alt="Alan Ortiz" class="responsive">
+<img src="img/posts/05-vol2/FotoCristian.jpg" alt="Cristian Gómez" class="responsive">
 
 Puedes encontrar su presentación en: **[Slides](https://slides.com/alanortiz/kotlin#/){:target="_blank"}**
 
-**Alan** nos habló acerca de los inicios de Kotlin, cuando se lanzó oficialmente allá por el año 2017 en el **Google I/O**, además de todo el funcionamiento interno que tiene con relación a Java.
+**Cristian** explicó el porqué denominó *Sancocho Programming* a su presentación y porqué hace referencia a la programación multiparadigma en Kotlin, nos explicó cada uno de los beneficios que posee.
 
-También nos mostró las aplicaciones que migraron de Java a Kotlin como lo son Trello, Uber, entre otras.
+Nos habló de dos grupos en los que se dividen los paradigmas de programación en Kotlin:
 
-Y terminó dándonos 10 razones por las que debemos utilizar Kotlin en el desarrollo de nuestras aplicaciones.
+- Estilo
+    - Imperativo
+    - Declarativo
 
-### 💻 **Kotlin Workshop** 
+- Acercamiento
+    - Procedural
+    - OOP
+    - FP
 
-👉 *Kotlin Demo* - **[Gustavo Lizárraga](https://lizarraga.dev){:target="_blank"}**
+También después de ello nos mostró las buenas prácticas que podemos tener para aplicar lo mejor de cada uno de los paradigmas en Kotlin.
 
-<img src="img/posts/vol1/FotoGustavo.jpg" alt="Gustavo Lizárraga" class="responsive">
-
-Puedes encontrar el demo realizado en: **[GitHub](https://github.com/lizarragadev/KotlinNight-Vol_1-Demo){:target="_blank"}**
-
-Yo hice unos demos de creación de variables, constantes, funciones y estructuras cíclicas, explicando un poco la estructura de Kotlin como lenguaje de programación y recalcando algunos puntos vistos en la charla anterior.
-
-Finalmente vimos un poco el manejo de nulos y la forma correcta de accederlo.
+No te lo pierdas y ve a verlo en Youtube.
 
 ### 📢⚡️ **Kotlin Lightning Talk**
 
-👉 5 beneficios de usar Kotlin - **[Corali Almanza](https://corali.com)**
+👉 *Kotlin datos* - **[Alvaro Urquidi](https://www.facebook.com/Alvi.U)**
 
-<img src="img/posts/vol1/FotoCorali.jpg" alt="Corali Almanza" class="responsive">
+<img src="img/posts/05-vol2/FotoAlvaro.jpg" alt="Alvaro Urquidi" class="responsive">
 
-Puedes encontrar sus presentación en: **[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft){:target="_blank"}**
+Puedes encontrar su presentación en: **[PDF](https://drive.google.com/file/d/1PwbRdtsMYP8dqXZLl9INRcJf7aAQQpf5/view?usp=sharing){:target="_blank"}**
 
-**Corali** en 5 minutos nos mostró 5 de los beneficios que ella encontró del por qué utilizar **Kotlin** y esos son:
-    
-1. Código conciso.
-2. Fácil curva de aprendizaje.
-3. Compilación rápida. 
-4. Seguridad nula.
-5. Se adapta al desarrollo multiplataforma.
+**Alvaro** en 5 minutos nos habló acerca de lugares donde podríamos aprender *Kotlin*, también de algunos datos estadísticos como que actualmente el 32.1% de desarrolladores móviles trabajan con Kotlin o que también el 46.8% de profesionales adoptaron migrar a este lenguaje de programación.
 
-### 📢 **Kotlin Experience Talk** 
+### 💻 **Kotlin Workshop** 
 
-👉 *Migración de Java a Kotlin* - **[Armando Picón](https://medium.com/@devpicon){:target="_blank"}**
+👉 *Kotlin Multi-paradigma* - **[Melvin Callisaya](https://www.facebook.com/Matt2393){:target="_blank"}**
 
-<img src="img/posts/vol1/FotoArmando.jpg" alt="Armando Picón" class="responsive">
+<img src="img/posts/05-vol2/FotoMelvin.jpg" alt="Melvin Callisaya" class="responsive">
 
-Puedes encontrar el demo realizado en: **[GitHub](enlace){:target="_blank"}**
+Puedes encontrar su presentación en: **[PDF](https://drive.google.com/file/d/1QvBm4jsM05cKL694gZ0ViZoO_p5eloyu/view?usp=sharing){:target="_blank"}**
 
- **Armando** nos habló un poco acerca de su experiencia trabajando con Kotlin durante los últimos años, asimismo nos hizo un *live coding* de las buenas prácticas para poder migrar una aplicación desarrollada en Java a Kotlin y lo resumió en 10 consejos muy útiles para migración:
+Puedes encontrar el demo realizado en: **[GitHub](https://github.com/matt2393/KotlinMultiparadigma){:target="_blank"}**
 
-1. Consejo 1.
-2. Consejo 2.
-3. Consejo 3.
-4. Consejo 4.
-5. Consejo 5.
-6. Consejo 6.
-7. Consejo 7.
-8. Consejo 8.
-9. Consejo 9.
-10. Consejo 10.
+Melvin nos presentó un proyecto que desarrolló con Kotlin utilizando distintos paradigmas de programación y sus buenos usos o prácticas. 
 
-De esa forma finalizamos con el primer **Kotlin Night** del año.
+Asimismo nos mostró bastante código de la implementación correcta que deberíamos seguir al momento de utilizar uno u otro paradigma de programación.
+
+### 📢⚡️ **Kotlin Lightning Talk**
+
+👉 *First Java, First Kotlin* - **[Adriana Tito](https://www.facebook.com/adrianaselena.titoilasaca.3)**
+
+<img src="img/posts/05-vol2/FotoAdriana.jpg" alt="Adriana Tito" class="responsive">
+
+Puedes encontrar su presentación en: **[Slides](https://slides.com/adrianaselenatitoilasaca/deck/fullscreen#/){:target="_blank"}**
+
+**Adriana** nos presentó su primer proyecto desarrollado en para Android con Java y de que trata y también nos mostró que su primer proyecto en Android con Kotlin fué el mismo y realizó la migración de Java a Kotlin y algunos consejos interesantes que nos compartió.
+
+
+### 📢 **Kotlin Talk** 
+
+👉 *Kotlin the trojan horse* - **[Gustavo Lizárraga](https://lizarraga.dev){:target="_blank"}**
+
+<img src="img/posts/05-vol2/FotoGustavo.jpg" alt="Gustavo Lizárraga" class="responsive">
+
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/lizarragadev/){:target="_blank"}**
+
+ **Gustavo** nos comentó un poquito acerca de los distintos lenguajes de programación que quisiero derrocar a Java como primer lenguaje de programación en Android, entre los cuáles están Ceylon, Scala, C++ y Lua.
+
+ Además nos comentó un poco el trabajo que realiza cada uno de nuestros auspiciadores de los **Kotlin Nights** en cuál puedes ver a más detalle en: [Sponsors](https://nights.kotlinlapaz.dev/#/2020/01/20/sponsors)
+
+
+De esa forma finalizamos con el segundo **Kotlin Night** del año.
 
 ## **Regalos y comida**
 ---
-Aparte de aprender cosas geniales de **Kotlin** en todas las presentaciones, tuvimos un momento para degustar Pizzas y gaseosa, además de poder realizar un concurso para regalar los distintos souvenirs que teniamos.
 
-<img src="img/posts/vol1/FotoPizzas.jpg" alt="Pizzas" class="responsive">
+<img src="img/posts/05-vol2/FotoPremios.jpg" alt="Kahoot" class="responsive">
+
+En ésta ocasión tuvimos un concurso divertido para nuestros asistentes en el cuál utilizamos **Kahoot** como herramienta, aquí te comparto algunas fotografías:
+
+<img src="img/posts/05-vol2/FotoKahoot1.jpg" alt="Kahoot" class="responsive">
+<img src="img/posts/05-vol2/FotoKahoot2.jpg" alt="Kahoot" class="responsive">
+
+Con ello logramos comprobar lo aprendido en éste **Kotlin Night** enfocado en **Multi-paradigma**.
+
+Los ganadores del Kahoot se llevaron premios de nuestros *auspiciadores*:
+
+<img src="img/posts/05-vol2/FotoGanadores.jpg" alt="Kahoot" class="responsive">
+<img src="img/posts/05-vol2/FotoGanadores22.jpg" alt="Kahoot" class="responsive">
+<img src="img/posts/05-vol2/FotoGanadores3.jpg" alt="Kahoot" class="responsive">
+<img src="img/posts/05-vol2/FotoGanadores2.jpg" alt="Kahoot" class="responsive">
+
+Aparte de aprender cosas geniales de **Kotlin** en todas las presentaciones, tuvimos un momento para degustar Pizzas y una bebida.
+
+<img src="img/posts/05-vol2/FotoRefrigerio.jpg" alt="Pizzas" class="responsive">
+<img src="img/posts/05-vol2/FotoRefrigerio2.jpg" alt="Pizzas" class="responsive">
 
 *Pizzas en el Kotlin Night*
 
-<img src="img/posts/vol1/FotoPremios1.jpg" alt="Premios" class="responsive">
-<img src="img/posts/vol1/FotoPremios2.jpg" alt="Premios" class="responsive">
+Si deseas ver a detalle cada una de las presentaciones te invito a darle click al video grabación del **Kotlin Night - Vol. 2**.
 
-*Premios en el Kotlin Night*
-
-<img src="img/posts/vol1/FotoGanadores2.jpg" alt="Ganadores concurso" class="responsive">
-
-*Nuestros ganadores del concurso con preguntas técnicas de todas las presentaciones del Kotlin Night*
-
-Si deseas ver a detalle cada una de las presentaciones te invito a darle click al video grabación del **Kotlin Night - Vol. 1**.
-
-<img src="img/posts/vol1/FotoAsistentes.jpg" alt="Asistentes Kotlin Night" class="responsive">
+<img src="img/posts/05-vol2/FotoAsistentes.jpg" alt="Asistentes Kotlin Night" class="responsive">
 
 *Muchas gracias a todos los que asistieron.*
 
-## **¡Ahora es tu turno!**
+## **¡Sigue aprendiendo!**
 ---
-Pudimos ver distintas cosas iniciales de **Kotlin** como lenguaje de programación, desde los conceptos, modo de ejecución, similitudes con Java, cosas interesantes que tiene este lenguaje, ejemplos prácticos y cerramos con una persona experimentada animándonos a ingresar más a profundidad a aprender y ***Kotlinearnos***.
+Realmente éste Kotlin Night fué muy provechoso, ya que todos los asistentes aprendieron algo, lo pudimos comprobar en el juego con Kahoot, al ver sus respuestas y además el ánimo que tenía cada asistente por aprender más y más es muy satisfactorio.
 
 ¡Es hora que actues con todo lo aprendido!
 Te recomiendo responder las siguiente preguntas:
-**¿Qué te pareció Kotlin?**, **¿Crees que es fácil aprenderlo?**, **¿Tienes ganas de tomar algún curso para profundizar todo?**, **¿Que futuro le ves a Kotlin?** Házmelo saber en los comentarios y no olvides compartirlo con tus amigos en tus redes sociales.
+**¿Qué paradigmas de programación aplicas en otro lenguaje de tu preferencia?**, **¿En qué casos aplicarías un determinado paradigma de programación?**, **¿Crees que tener muchos paradigmas en un lenguaje de programación lo haga complicado?**. Házmelo saber en los comentarios y no olvides compartirlo con tus amigos en tus redes sociales.
 
 Y nunca olvides la frase: **¡Aprende algo y compártelo!**
 
