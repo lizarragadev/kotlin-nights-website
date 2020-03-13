@@ -13,7 +13,7 @@ date:   2020-02-20 21:15:00
 ---
 
 Según la útlima **[encuesta](https://insights.stackoverflow.com/survey/2019
-){:target="_blank"}** llevada a cabo por **[Stackoverflow](https://stackoverflow.com/){:target="_blank"}** el año 2019 podemos sacar dos datos importantes: 
+){:target="_blank"}** llevada a cabo por **[Stackoverflow](https://stackoverflow.com/){:target="_blank"}** el año 2019 podemos sacar dos datos importantes:
 
 - Kotlin ocupa el 4to lugar como lenguaje de programación **más querido** con un **72,6%**.
 - Kotlin ocupa el 5to lugar como el lenguaje de programación **más buscado** con un **11,1%**.
@@ -31,9 +31,9 @@ El pasado 30 de enero llevamos a cabo el primer **Kotlin Night** del 2020, enfoc
 
 Si quieres ver la repetición grabada del **Kotlin Nights Vol. 1** puedes hacerlo haciendo click en el siguiente video.
 
-	
+
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HYTBsTieMPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n0bOjNi9DYc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## **Te presento un resumen.**
 ---
@@ -53,7 +53,7 @@ También nos mostró las aplicaciones que migraron de Java a Kotlin como lo son 
 
 Y terminó dándonos 10 razones por las que debemos utilizar Kotlin en el desarrollo de nuestras aplicaciones.
 
-### 💻 **Kotlin Workshop** 
+### 💻 **Kotlin Workshop**
 
 👉 *Kotlin Demo* - **[Gustavo Lizárraga](https://lizarraga.dev){:target="_blank"}**
 
@@ -74,14 +74,14 @@ Finalmente vimos un poco el manejo de nulos y la forma correcta de accederlo.
 Puedes encontrar su presentación en: **[PDF](https://drive.google.com/open?id=1iifuzH_hU1iGePwfyYBrq_ktNsaQ-Xft){:target="_blank"}**
 
 **Corali** en 5 minutos nos mostró 5 de los beneficios que ella encontró del por qué utilizar **Kotlin** y esos son:
-    
+
 1. Código conciso.
 2. Fácil curva de aprendizaje.
-3. Compilación rápida. 
+3. Compilación rápida.
 4. Seguridad nula.
 5. Se adapta al desarrollo multiplataforma.
 
-### 📢 **Kotlin Experience Talk** 
+### 📢 **Kotlin Experience Talk**
 
 👉 *Migración de Java a Kotlin* - **[Armando Picón](https://medium.com/@devpicon){:target="_blank"}**
 
@@ -91,16 +91,16 @@ Puedes encontrar el demo realizado en: **[GitHub](enlace){:target="_blank"}**
 
  **Armando** nos habló un poco acerca de su experiencia trabajando con Kotlin durante los últimos años, asimismo nos hizo un *live coding* de las buenas prácticas para poder migrar una aplicación desarrollada en Java a Kotlin y lo resumió en 10 consejos muy útiles para migración:
 
-1. Consejo 1.
-2. Consejo 2.
-3. Consejo 3.
-4. Consejo 4.
-5. Consejo 5.
-6. Consejo 6.
-7. Consejo 7.
-8. Consejo 8.
-9. Consejo 9.
-10. Consejo 10.
+1. Empieza siempre con clases pequeñas y de poco impacto.
+2. Revisa la lógica de las clases que quieres convertir.
+3. Emplea las anotaciones @NonNull y @Nullable en Java para definir que campos, parámetros o atributos van a aceptar valores nulos o no.
+4. Valida los nulos.
+5. Asume que los valores que recibirán las dependencias de terceros pueden tener valor nulo.
+6. Evita a toda costa emplear (!!).
+7. name?.let{ it -> // aqui ejecuto mi lógica cuando no sea nulo. }
+8. Siempre que sea necesario cubre los casos nulos.
+9. ¡Divide y vencerás! (SOLID).
+10. Después de la migración, limpia y refina tu código.
 
 De esa forma finalizamos con el primer **Kotlin Night** del año.
 
@@ -136,4 +136,3 @@ Te recomiendo responder las siguiente preguntas:
 **¿Qué te pareció Kotlin?**, **¿Crees que es fácil aprenderlo?**, **¿Tienes ganas de tomar algún curso para profundizar todo?**, **¿Que futuro le ves a Kotlin?** Házmelo saber en los comentarios y no olvides compartirlo con tus amigos en tus redes sociales.
 
 Y nunca olvides la frase: **¡Aprende algo y compártelo!**
-

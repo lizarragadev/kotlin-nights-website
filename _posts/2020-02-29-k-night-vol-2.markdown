@@ -38,7 +38,7 @@ Tuvimos 5 presentaciones que las vemos a continuación:
 
 <img src="img/posts/05-vol2/FotoCristian.jpg" alt="Cristian Gómez" class="responsive">
 
-Puedes encontrar su presentación en: **[Slides](https://slides.com/alanortiz/kotlin#/){:target="_blank"}**
+Puedes encontrar su presentación en: **[Google slides](https://docs.google.com/presentation/d/1prABeHtyOIZD8FeFjuu8JxUgHoRINAoKby9C9yKNij0/edit){:target="_blank"}**
 
 **Cristian** explicó el porqué denominó *Sancocho Programming* a su presentación y porqué hace referencia a la programación multiparadigma en Kotlin, nos explicó cada uno de los beneficios que posee.
 
@@ -54,6 +54,12 @@ Nos habló de dos grupos en los que se dividen los paradigmas de programación e
     - FP
 
 También después de ello nos mostró las buenas prácticas que podemos tener para aplicar lo mejor de cada uno de los paradigmas en Kotlin.
+
+Finalmente nos compartió los siguientes enlaces:
+- **[Seven Virtues of a Good Object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)**
+- **[Is elegant Object Oriented Programming Functional Programming?](https://medium.com/@danilomoliveira/is-elegant-object-oriented-programming-functional-programming-2fe46e45660f)**
+- **[Utility Classes Have Nothing to Do With Functional Programming](https://www.yegor256.com/2015/02/20/utility-classes-vs-functional-programming.html)**
+- **[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)**
 
 No te lo pierdas y ve a verlo en Youtube.
 
@@ -90,7 +96,6 @@ Asimismo nos mostró bastante código de la implementación correcta que deberí
 Puedes encontrar su presentación en: **[Slides](https://slides.com/adrianaselenatitoilasaca/deck/fullscreen#/){:target="_blank"}**
 
 **Adriana** nos presentó su primer proyecto desarrollado en para Android con Java y de que trata y también nos mostró que su primer proyecto en Android con Kotlin fué el mismo y realizó la migración de Java a Kotlin y algunos consejos interesantes que nos compartió.
-
 
 ### 📢 **Kotlin Talk** 
 
