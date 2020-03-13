@@ -152,6 +152,6 @@ Realmente éste Kotlin Night fué muy provechoso, ya que todos los asistentes ap
 Te recomiendo responder las siguiente preguntas:
 **¿Qué paradigmas de programación aplicas en otro lenguaje de tu preferencia?**, **¿En qué casos aplicarías un determinado paradigma de programación?**, **¿Crees que tener muchos paradigmas en un lenguaje de programación lo haga complicado?**.
 
-Puedes unirte al grupo en **WhatsApp** en el siguiente [Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas) y no olvides compartirlo con tus amigos en tus redes sociales.
+Puedes unirte al grupo en **WhatsApp** en el siguiente **[Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con tus amigos en tus redes sociales.
 
 **#NuncaParesDeAprender** y **#NuncaParesDeCompartir**

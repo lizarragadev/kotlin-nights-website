@@ -132,9 +132,9 @@ Si deseas ver a detalle cada una de las presentaciones te invito a darle click a
 Pudimos ver distintas cosas iniciales de **Kotlin** como lenguaje de programación, desde los conceptos, modo de ejecución, similitudes con Java, cosas interesantes que tiene este lenguaje, ejemplos prácticos y cerramos con una persona experimentada animándonos a ingresar más a profundidad a aprender y ***Kotlinearnos***.
 
 ¡Es hora que actues con todo lo aprendido!
-Te recomiendo responder las siguiente preguntas:
-**¿Qué te pareció Kotlin?**, **¿Crees que es fácil aprenderlo?**, **¿Tienes ganas de tomar algún curso para profundizar todo?**, **¿Que futuro le ves a Kotlin?**.
+Te recomiendo responder las siguientes preguntas:
+**¿Qué te pareció Kotlin?**, **¿Crees que es fácil aprenderlo?**, **¿Tienes ganas de tomar algún curso para profundizar todo?**, **¿Qué futuro le ves a Kotlin?**.
 
-Puedes unirte al grupo en **WhatsApp** en el siguiente [Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas) y no olvides compartirlo con tus amigos en tus redes sociales.
+Puedes unirte al grupo en **WhatsApp** en el siguiente **[Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con tus amigos en tus redes sociales.
 
 **#NuncaParesDeAprender** y **#NuncaParesDeCompartir**
