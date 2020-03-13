@@ -24,9 +24,9 @@ En éste nuevo **Kotlin Night** hablamos justamente de ello, todo enfocado a los
 El pasado 27 de febrero llevamos a cabo el segundo **Kotlin Night** del 2020, enfocado en **Multi-paradigma** que ofrece Kotlin a los desarrolladores.
 
 Si quieres ver la repetición grabada del **Kotlin Nights Vol. 2** puedes hacerlo haciendo click en el siguiente video.
-	
+
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HYTBsTieMPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pDQ1ya8Ffps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## **Te presento un resumen.**
 ---
@@ -73,7 +73,7 @@ Puedes encontrar su presentación en: **[PDF](https://drive.google.com/file/d/1P
 
 **Alvaro** en 5 minutos nos habló acerca de lugares donde podríamos aprender *Kotlin*, también de algunos datos estadísticos como que actualmente el 32.1% de desarrolladores móviles trabajan con Kotlin o que también el 46.8% de profesionales adoptaron migrar a este lenguaje de programación.
 
-### 💻 **Kotlin Workshop** 
+### 💻 **Kotlin Workshop**
 
 👉 *Kotlin Multi-paradigma* - **[Melvin Callisaya](https://www.facebook.com/Matt2393){:target="_blank"}**
 
@@ -83,7 +83,7 @@ Puedes encontrar su presentación en: **[PDF](https://drive.google.com/file/d/1Q
 
 Puedes encontrar el demo realizado en: **[GitHub](https://github.com/matt2393/KotlinMultiparadigma){:target="_blank"}**
 
-Melvin nos presentó un proyecto que desarrolló con Kotlin utilizando distintos paradigmas de programación y sus buenos usos o prácticas. 
+Melvin nos presentó un proyecto que desarrolló con Kotlin utilizando distintos paradigmas de programación y sus buenos usos o prácticas.
 
 Asimismo nos mostró bastante código de la implementación correcta que deberíamos seguir al momento de utilizar uno u otro paradigma de programación.
 
@@ -97,7 +97,7 @@ Puedes encontrar su presentación en: **[Slides](https://slides.com/adrianaselen
 
 **Adriana** nos presentó su primer proyecto desarrollado en para Android con Java y de que trata y también nos mostró que su primer proyecto en Android con Kotlin fué el mismo y realizó la migración de Java a Kotlin y algunos consejos interesantes que nos compartió.
 
-### 📢 **Kotlin Talk** 
+### 📢 **Kotlin Talk**
 
 👉 *Kotlin the trojan horse* - **[Gustavo Lizárraga](https://lizarraga.dev){:target="_blank"}**
 
@@ -153,4 +153,3 @@ Te recomiendo responder las siguiente preguntas:
 **¿Qué paradigmas de programación aplicas en otro lenguaje de tu preferencia?**, **¿En qué casos aplicarías un determinado paradigma de programación?**, **¿Crees que tener muchos paradigmas en un lenguaje de programación lo haga complicado?**. Házmelo saber en los comentarios y no olvides compartirlo con tus amigos en tus redes sociales.
 
 Y nunca olvides la frase: **¡Aprende algo y compártelo!**
-

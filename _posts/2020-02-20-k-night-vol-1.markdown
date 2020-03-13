@@ -87,7 +87,7 @@ Puedes encontrar su presentación en: **[PDF](https://drive.google.com/open?id=1
 
 <img src="img/posts/04-vol1/FotoArmando.jpg" alt="Armando Picón" class="responsive">
 
-Puedes encontrar el demo realizado en: **[GitHub](enlace){:target="_blank"}**
+Puedes encontrar material en su GitHub en: **[GitHub](https://github.com/devpicon){:target="_blank"}**
 
  **Armando** nos habló un poco acerca de su experiencia trabajando con Kotlin durante los últimos años, asimismo nos hizo un *live coding* de las buenas prácticas para poder migrar una aplicación desarrollada en Java a Kotlin y lo resumió en 10 consejos muy útiles para migración:
 
