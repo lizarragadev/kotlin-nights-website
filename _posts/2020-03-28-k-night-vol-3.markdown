@@ -1,0 +1,89 @@
+---
+title:  "Kotlin Native & Multiplatform"
+subtitle: "Kotlin Nights | Vol. 3"
+author: "Gustavo Lizárraga"
+avatar: "img/authors/profile.png"
+image: "img/posts/06-vol3/BannerPost.jpg"
+date:   2020-03-28 21:15:00
+---
+
+<img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
+
+## **Aplicaciones nativas y multiplataforma**
+---
+
+La posibilidad de poder compartir código entre distintas plataformas es ahora posible, gracias a **Kotlin Native y Multiplatform**. Si bien aún faltan para poder implementarlo en producción, se pinta a que podría llegar a ser una solución bastante interesante.
+
+Pese a la situación actual en la que se encuentra todo el mundo con el **COVID-19** llevamos a cabo un nuevo **Kotlin Night** y hablamos de todo enfocado a Nativo y Multiplataforma y te comparto el material de cada uno de nuestros expositores:
+
+## **Kotlin Nights - Vol. 2**
+---
+
+<img src="img/posts/06-vol3/PromoKNight.jpg" alt="Promo" class="responsive">
+
+El pasado 26 de marzo llevamos a cabo el tercer **Kotlin Night** del 2020, enfocado en **Native & Multiplatform** para compartir código entre plataformas.
+
+Si quieres ver la repetición grabada del **Kotlin Nights Vol. 3** puedes hacerlo haciendo click en el siguiente video.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=46FYimKwmr8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## **Te presento un resumen.**
+---
+Tuvimos 3 presentaciones que las vemos a continuación:
+
+### 📢 **Kotlin Talk**
+
+👉 *El día que tuve que programar para iOS* - **[Diego Ramirez](https://twitter.com/Diegop88){:target="_blank"}**
+
+<img src="img/posts/06-vol3/FotoDiego.jpg" alt="Diego Ramírez" class="responsive">
+
+Puedes encontrar su presentación en: **[Google slides](https://docs.google.com/presentation/d/1dMSyqQ_DfI23Dp6bPSwhrjCnOJlDI8GJH8a5Err0mnE/edit#slide=id.g581b73a28b_3_63){:target="_blank"}**
+
+El código fuente del ejemplo puedes encontrarlo en: **[GitHub](https://github.com/Diegop88/ArchitectureDemo){:target="_blank"}**
+
+**Diego** nos presentó un poco acerca de la posibilidad de poder compartir código entre distintas plataformas con Kotlin Native y los conceptos iniciales de Multiplataforma.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+### 📢⚡️ **Kotlin Talk**
+
+👉 *Kotlin Native with Flutter* - **[Brian Castillo](https://twitter.com/briansalvattore)**
+
+<img src="img/posts/06-vol3/FotoBrian.jpg" alt="Brian Castillo" class="responsive">
+
+Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/17zZfGPgiKjq-Rw9R2kl1yUMlE_eRraR6a92Z8RgY4z0/edit#slide=id.g5b9a4bdf9e_0_358){:target="_blank"}**
+
+**Brian** nos presentó un tema un poco polémico, por el hecho de fusionar  **Kotlin** con **Flutter**, pero bastante interesante la implementación, te recomiendo irla a ver a YouTube y como el dijo: "No lo intenten en casa".
+
+### 💻 **Kotlin Talk**
+
+👉 *Kotlin DSL* - **[Juan Guillermo Gómez](https://twitter.com/jggomezt){:target="_blank"}**
+
+<img src="img/posts/06-vol3/FotoJuanGuillermo.jpg" alt="Juan Guillermo Gómez" class="responsive">
+
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/jggomez/creating-internal-dsls-in-kotlin){:target="_blank"}**
+
+Puedes encontrar el demo realizado en: **[GitHub](https://github.com/jggomez/KotlinDSL){:target="_blank"}**
+
+**Melvin** nos compartió acerca de cómo crear un lenguaje en Kotlin, que nos permita realizar acciones muy específicas pero interesantes al momento de implementarlas. Te invito a que puedas pasar a ver su presentación en YouTube.
+
+De esa forma finalizamos con el segundo **Kotlin Night** del año.
+
+## **Regalos**
+---
+
+<img src="img/posts/06-vol3/FotoPremios.jpg" alt="Test" class="responsive">
+
+Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas hicimos un pequeño concurso, completando un test con preguntas de nuestros expositores y los mejores puntajes se llevaron premios de nuestros auspiciadores, entre libros, poleras, stickers, etc.
+
+## **¡Sigue aprendiendo!**
+---
+
+¡Es hora que actues con todo lo aprendido!
+Te recomiendo responder las siguiente preguntas:
+**¿Crees que Kotlin Multiplatform será la forma del futuro para compartir código entre plataformas?**, **¿En qué casos aplicarías la creación de un DSL?**.
+
+Puedes unirte al grupo en **WhatsApp** en el siguiente **[Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con tus amigos en tus redes sociales.
+
+**#NuncaParesdeAprender** y **#NuncaParesdeCompartir**
