@@ -16,7 +16,7 @@ La posibilidad de poder compartir código entre distintas plataformas es ahora p
 
 Pese a la situación actual en la que se encuentra todo el mundo con el **COVID-19** llevamos a cabo un nuevo **Kotlin Night** y hablamos de todo enfocado a Nativo y Multiplataforma y te comparto el material de cada uno de nuestros expositores:
 
-## **Kotlin Nights - Vol. 2**
+## **Kotlin Nights - Vol. 3**
 ---
 
 <img src="img/posts/06-vol3/PromoKNight.jpg" alt="Promo" class="responsive">
@@ -26,7 +26,7 @@ El pasado 26 de marzo llevamos a cabo el tercer **Kotlin Night** del 2020, enfoc
 Si quieres ver la repetición grabada del **Kotlin Nights Vol. 3** puedes hacerlo haciendo click en el siguiente video.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=46FYimKwmr8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46FYimKwmr8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## **Te presento un resumen.**
 ---
@@ -66,16 +66,16 @@ Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/jg
 
 Puedes encontrar el demo realizado en: **[GitHub](https://github.com/jggomez/KotlinDSL){:target="_blank"}**
 
-**Melvin** nos compartió acerca de cómo crear un lenguaje en Kotlin, que nos permita realizar acciones muy específicas pero interesantes al momento de implementarlas. Te invito a que puedas pasar a ver su presentación en YouTube.
+**Juan Guillermo** nos compartió acerca de cómo crear un lenguaje DSL en Kotlin, que nos permita realizar acciones muy específicas pero interesantes al momento de implementarlas. Te invito a que puedas pasar a ver su presentación en YouTube.
 
-De esa forma finalizamos con el segundo **Kotlin Night** del año.
+De esa forma finalizamos con el tercer **Kotlin Night** del año.
 
 ## **Regalos**
 ---
 
 <img src="img/posts/06-vol3/FotoPremios.jpg" alt="Test" class="responsive">
 
-Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas hicimos un pequeño concurso, completando un test con preguntas de nuestros expositores y los mejores puntajes se llevaron premios de nuestros auspiciadores, entre libros, poleras, stickers, etc.
+Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas hicimos un pequeño concurso, completando un test con preguntas de nuestros expositores y los mejores puntajes se llevaron premios de nuestros auspiciadores, entre libros, poleras, stickers, etc. (De los cuáles se les enviará a sus respectivas ciudades en cuanto pase la situación actual).
 
 ## **¡Sigue aprendiendo!**
 ---
