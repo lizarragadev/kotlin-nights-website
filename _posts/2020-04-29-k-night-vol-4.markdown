@@ -12,14 +12,12 @@ date:   2020-04-29 21:15:00
 ## **Kotlin del lado del servidor**
 ---
 
-Con Kotlin podemos crear aplicaciones del lado del servidor, una características por demás interesante al momento de realizar el back-end de nuestros proyectos si queremos utilizar un mismo lenguaje de programación.
+Con Kotlin podemos crear aplicaciones del lado del servidor, una característica por demás interesante al momento de realizar el back-end de nuestros proyectos si queremos utilizar un mismo lenguaje de programación.
 
 Por ello éste Kotlin Night tenemos como tópico principal el tema de Kotlin para el lado del servidor, para que aprendamos juntos la creación de back-end para poder conectar con nuestras aplicaciones Android, aplicaciones Web o multiplataformas, acompáñanos a ver los detalles del mismo.
 
 ## **Kotlin Nights - Vol. 4**
 ---
-
-<img src="img/posts/06-vol3/PromoKNight.jpg" alt="Promo" class="responsive">
 
 El pasado 23 de abril llevamos a cabo el cuarto **Kotlin Night** del 2020, enfocado en **Kotlin for Server Side** y crear microservicios en la nube.
 
@@ -44,7 +42,7 @@ Puedes encontrar su presentación en: **[Google slides](https://docs.google.com/
 
 No te lo pierdas y ve a verlo en Youtube.
 
-### 📢⚡️ **Kotlin Talk**
+### 📢 **Kotlin Talk**
 
 👉 *Ktor, perdiendo el miedo al back* - **[Sebastian Tellez](https://twitter.com/gorrotowi)**
 
@@ -78,7 +76,7 @@ Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar prem
 
 ¡Es hora que actues con todo lo aprendido!
 Te recomiendo responder las siguiente preguntas:
-**¿Qué beneficios que brinda Spring Boot con relación a otra forma de realizar microservicios?**, **¿Será Ktor la mejor forma de crear Web Services para Android?**, **¿Por qué será que la programación funciona es tan importante en Kotlin?**.
+**¿Qué beneficios que brinda Spring Boot con relación a otra forma de realizar microservicios?**, **¿Será Ktor la mejor forma de crear Web Services para Android?**, **¿Por qué será que la programación funcional es tan importante en Kotlin?**.
 
 Puedes unirte al grupo en **WhatsApp** en el siguiente **[Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con tus amigos en tus redes sociales.
 
