@@ -56,11 +56,11 @@ No te lo pierdas y ve a verlo en Youtube.
 
 ### 💻 **Kotlin Talk**
 
-👉 *Programación Funcional* - **[Anahi Salgado](https://twitter.com/anncode){:target="_blank"}**
+👉 *Programación Funcional en Kotlin* - **[Anahi Salgado](https://twitter.com/anncode){:target="_blank"}**
 
 <img src="img/posts/07-vol4/FotoAnahi.jpg" alt="Anahi Salgado" class="responsive">
 
-Puedes encontrar su presentación en: **[Google Slides](https://speakerdeck.com/jggomez/creating-internal-dsls-in-kotlin){:target="_blank"}**
+Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/19SPq-Qw7k4T9GhrkVG8UQutIhooSJFfzyyZRSfCJMNQ/edit#slide=id.g840ddbfb08_0_356){:target="_blank"}**
 
 **Anahí** nos habló acerca de Kotlin como lenguaje multi-paradigma y la importancia de poder aplicar distintos paradigmas de programación en un solo lenguaje además de algunos datos interesantes.
 
