@@ -1,0 +1,83 @@
+---
+title:  "Kotlin for Server Side"
+subtitle: "Kotlin Nights | Vol. 4"
+author: "Gustavo Lizárraga"
+avatar: "img/authors/profile.png"
+image: "img/posts/07-vol4/BannerPost.jpg"
+date:   2020-04-29 21:15:00
+---
+
+<img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
+
+## **Kotlin del lado del servidor**
+---
+
+Con Kotlin podemos crear aplicaciones del lado del servidor, una característica por demás interesante al momento de realizar el back-end de nuestros proyectos si queremos utilizar un mismo lenguaje de programación.
+
+Por ello éste Kotlin Night tenemos como tópico principal el tema de Kotlin para el lado del servidor, para que aprendamos juntos la creación de back-end para poder conectar con nuestras aplicaciones Android, aplicaciones Web o multiplataformas, acompáñanos a ver los detalles del mismo.
+
+## **Kotlin Nights - Vol. 4**
+---
+
+El pasado 23 de abril llevamos a cabo el cuarto **Kotlin Night** del 2020, enfocado en **Kotlin for Server Side** y crear microservicios en la nube.
+
+Si quieres ver la repetición grabada del **Kotlin Nights Vol. 4** puedes hacerlo haciendo click en el siguiente video.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvSW62AqrxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## **Te presento un resumen.**
+---
+Tuvimos 3 presentaciones que las vemos a continuación:
+
+### 📢 **Kotlin Talk**
+
+👉 *Microservicios con Kotlin y Spring Boot* - **[Santiago Carrillo](https://twitter.com/sancarbar){:target="_blank"}**
+
+<img src="img/posts/07-vol4/FotoSantiago.jpg" alt="Santiago Carrillo" class="responsive">
+
+Puedes encontrar su presentación en: **[Google slides](https://docs.google.com/presentation/d/1gFymS5x8vHwNC3G0z54W3rI9QerNFS9-9mkydrUIfUA/edit#slide=id.p){:target="_blank"}**
+
+**Santiago** nos presentó una de las formas en las que podemos crear cosas en el lado del servidor con Spring Boot, algunas características interesantes y una explicación clara y concisa.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+### 📢 **Kotlin Talk**
+
+👉 *Ktor, perdiendo el miedo al back* - **[Sebastian Tellez](https://twitter.com/gorrotowi)**
+
+<img src="img/posts/07-vol4/FotoSebastian.jpg" alt="Sebatian Tellez" class="responsive">
+
+Puedes encontrar su presentación en: **[Google Slides](https://drive.google.com/file/d/1cS9-HZ69IEqcodjP_tlmDLls2QM755B0/view){:target="_blank"}**
+
+**Sebastian** nos presentó otra alternativa para crear back-end con Kotlin utilizando una fabulosa herramienta llamada Ktor, con la cuál perderemos el miedo de crear web services para nuestras aplicaciones Android.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+### 💻 **Kotlin Talk**
+
+👉 *Programación Funcional en Kotlin* - **[Anahi Salgado](https://twitter.com/anncode){:target="_blank"}**
+
+<img src="img/posts/07-vol4/FotoAnahi.jpg" alt="Anahi Salgado" class="responsive">
+
+Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/19SPq-Qw7k4T9GhrkVG8UQutIhooSJFfzyyZRSfCJMNQ/edit#slide=id.g840ddbfb08_0_356){:target="_blank"}**
+
+**Anahí** nos habló acerca de Kotlin como lenguaje multi-paradigma y la importancia de poder aplicar distintos paradigmas de programación en un solo lenguaje además de algunos datos interesantes.
+
+De esa forma finalizamos con el cuarto **Kotlin Night** del año.
+
+## **Regalos**
+---
+
+Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas los hicimos regalando premios a las mejores preguntas entre los que participaron. Entre ellas un libro de Kotlin gracias a **Manning Publications**, una polera gracias a **Auth0** y una licencia de **Jetbrains**.
+
+## **¡Sigue aprendiendo!**
+---
+
+¡Es hora que actues con todo lo aprendido!
+Te recomiendo responder las siguiente preguntas:
+**¿Qué beneficios que brinda Spring Boot con relación a otra forma de realizar microservicios?**, **¿Será Ktor la mejor forma de crear Web Services para Android?**, **¿Por qué será que la programación funcional es tan importante en Kotlin?**.
+
+Puedes unirte al grupo en **WhatsApp** en el siguiente **[Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con tus amigos en tus redes sociales.
+
+**#NuncaParesdeAprender** y **#NuncaParesdeCompartir**
