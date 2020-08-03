@@ -1,0 +1,81 @@
+---
+title:  "Kotlin/JS"
+subtitle: "Kotlin Nights | Vol. 5"
+author: "Gustavo Lizárraga"
+avatar: "img/authors/profile.png"
+image: "img/posts/07-vol4/BannerPost.jpg"
+date:   2020-04-29 21:15:00
+---
+
+<img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
+
+## **Kotlin para la Web**
+---
+
+En ésta versión de los Kotlin Nights, tenemos como tópico principal otra de las características interesantes que tiene Kotlin y es: la compatibilidad de Javascript con Kotlin. Kotlin sigue creciendo, y gracias al lanzamiento de la beta de Kotlin 1.1 ya tenemos toda la potencia de la que ya disponíamos para la JVM ahora también en nuestros navegadores. Con Kotlin, disfrutarás de la experiencia de utilizar un lenguaje fuertemente tipado y de gran potencia como sustituto del convencional Javascript.
+
+## **Kotlin Nights - Vol. 5**
+---
+
+El pasado 28 de Mayo llevamos a cabo el quinto **Kotlin Night** del 2020, enfocado en **Kotlin/JS**.
+
+Si quieres ver la repetición grabada del **Kotlin Nights Vol. 5** puedes hacerlo haciendo click en el siguiente video.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fszkFPavLqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## **Te presento un resumen.**
+---
+Tuvimos 2 presentaciones que las vemos a continuación:
+
+### 📢 **Kotlin Talk**
+
+👉 *Microservicios con Kotlin y Spring Boot* - **[Mercedes Wyss](https://twitter.com/sancarbar){:target="_blank"}**
+
+<img src="img/posts/07-vol4/FotoSantiago.jpg" alt="Santiago Carrillo" class="responsive">
+
+Puedes encontrar su presentación en: **[Google slides](https://docs.google.com/presentation/d/1gFymS5x8vHwNC3G0z54W3rI9QerNFS9-9mkydrUIfUA/edit#slide=id.p){:target="_blank"}**
+
+**Santiago** nos presentó una de las formas en las que podemos crear cosas en el lado del servidor con Spring Boot, algunas características interesantes y una explicación clara y concisa.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+### 📢 **Kotlin Talk**
+
+👉 *Ktor, perdiendo el miedo al back* - **[Sebastian Tellez](https://twitter.com/gorrotowi)**
+
+<img src="img/posts/07-vol4/FotoSebastian.jpg" alt="Sebatian Tellez" class="responsive">
+
+Puedes encontrar su presentación en: **[Google Slides](https://drive.google.com/file/d/1cS9-HZ69IEqcodjP_tlmDLls2QM755B0/view){:target="_blank"}**
+
+**Sebastian** nos presentó otra alternativa para crear back-end con Kotlin utilizando una fabulosa herramienta llamada Ktor, con la cuál perderemos el miedo de crear web services para nuestras aplicaciones Android.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+### 💻 **Kotlin Talk**
+
+👉 *Programación Funcional en Kotlin* - **[Anahi Salgado](https://twitter.com/anncode){:target="_blank"}**
+
+<img src="img/posts/07-vol4/FotoAnahi.jpg" alt="Anahi Salgado" class="responsive">
+
+Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/19SPq-Qw7k4T9GhrkVG8UQutIhooSJFfzyyZRSfCJMNQ/edit#slide=id.g840ddbfb08_0_356){:target="_blank"}**
+
+**Anahí** nos habló acerca de Kotlin como lenguaje multi-paradigma y la importancia de poder aplicar distintos paradigmas de programación en un solo lenguaje además de algunos datos interesantes.
+
+De esa forma finalizamos con el cuarto **Kotlin Night** del año.
+
+## **Regalos**
+---
+
+Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas los hicimos regalando premios a las mejores preguntas entre los que participaron. Entre ellas un libro de Kotlin gracias a **Manning Publications**, una polera gracias a **Auth0** y una licencia de **Jetbrains**.
+
+## **¡Sigue aprendiendo!**
+---
+
+¡Es hora que actues con todo lo aprendido!
+Te recomiendo responder las siguiente preguntas:
+**¿Qué beneficios que brinda Spring Boot con relación a otra forma de realizar microservicios?**, **¿Será Ktor la mejor forma de crear Web Services para Android?**, **¿Por qué será que la programación funcional es tan importante en Kotlin?**.
+
+Puedes unirte al grupo en **WhatsApp** en el siguiente **[Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con tus amigos en tus redes sociales.
+
+**#NuncaParesdeAprender** y **#NuncaParesdeCompartir**
