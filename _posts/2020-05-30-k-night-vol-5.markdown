@@ -4,7 +4,7 @@ subtitle: "Kotlin Nights | Vol. 5"
 author: "Gustavo Lizárraga"
 avatar: "img/authors/profile.png"
 image: "img/posts/07-vol4/BannerPost.jpg"
-date:   2020-04-29 21:15:00
+date:   2020-05-30 21:15:00
 ---
 
 <img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
@@ -30,51 +30,43 @@ Tuvimos 2 presentaciones que las vemos a continuación:
 
 ### 📢 **Kotlin Talk**
 
-👉 *Microservicios con Kotlin y Spring Boot* - **[Mercedes Wyss](https://twitter.com/sancarbar){:target="_blank"}**
+👉 *Kotlin/JS* - **[Mercedes Wyss](https://twitter.com/itrjwyss){:target="_blank"}**
 
-<img src="img/posts/07-vol4/FotoSantiago.jpg" alt="Santiago Carrillo" class="responsive">
+<img src="img/posts/08-vol5/FotoMercedes.png" alt="Mercedes Wyss" class="responsive">
 
-Puedes encontrar su presentación en: **[Google slides](https://docs.google.com/presentation/d/1gFymS5x8vHwNC3G0z54W3rI9QerNFS9-9mkydrUIfUA/edit#slide=id.p){:target="_blank"}**
+Puedes encontrar su demo en: **[GitHub](https://github.com/itrjwyss/KotlinNight-JS){:target="_blank"}**
 
-**Santiago** nos presentó una de las formas en las que podemos crear cosas en el lado del servidor con Spring Boot, algunas características interesantes y una explicación clara y concisa.
+**Mercedes** nos presentó un demo en el cuál podemos ver la utilidad de poder utilizar uno de los lenguajes más populares como lo es Javascript ahora con Kotlin y los distintos casos que tenemos.
 
 No te lo pierdas y ve a verlo en Youtube.
 
 ### 📢 **Kotlin Talk**
 
-👉 *Ktor, perdiendo el miedo al back* - **[Sebastian Tellez](https://twitter.com/gorrotowi)**
+👉 *KAPT & Kotlin Plugins* - **[Bruno Aybar](https://twitter.com/brunoaybarg)**
 
-<img src="img/posts/07-vol4/FotoSebastian.jpg" alt="Sebatian Tellez" class="responsive">
+<img src="img/posts/08-vol5/FotoBruno.png" alt="Sebatian Tellez" class="responsive">
 
-Puedes encontrar su presentación en: **[Google Slides](https://drive.google.com/file/d/1cS9-HZ69IEqcodjP_tlmDLls2QM755B0/view){:target="_blank"}**
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/bruno125/annotation-processors-vs-kotlin-plugins){:target="_blank"}**
 
-**Sebastian** nos presentó otra alternativa para crear back-end con Kotlin utilizando una fabulosa herramienta llamada Ktor, con la cuál perderemos el miedo de crear web services para nuestras aplicaciones Android.
+**Bruno** nos habló acerca del procesador de anotaciones que soporta Kotlin: KAPT que hoy en día es la herramienta oficial para ese cometido, además nos habló un poco acerca de plugins para Kotlin y un poco de integración con Kotlin/JS.
 
 No te lo pierdas y ve a verlo en Youtube.
 
-### 💻 **Kotlin Talk**
-
-👉 *Programación Funcional en Kotlin* - **[Anahi Salgado](https://twitter.com/anncode){:target="_blank"}**
-
-<img src="img/posts/07-vol4/FotoAnahi.jpg" alt="Anahi Salgado" class="responsive">
-
-Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/19SPq-Qw7k4T9GhrkVG8UQutIhooSJFfzyyZRSfCJMNQ/edit#slide=id.g840ddbfb08_0_356){:target="_blank"}**
-
-**Anahí** nos habló acerca de Kotlin como lenguaje multi-paradigma y la importancia de poder aplicar distintos paradigmas de programación en un solo lenguaje además de algunos datos interesantes.
-
-De esa forma finalizamos con el cuarto **Kotlin Night** del año.
+De esa forma finalizamos con el quinto **Kotlin Night** del año.
 
 ## **Regalos**
 ---
 
-Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas los hicimos regalando premios a las mejores preguntas entre los que participaron. Entre ellas un libro de Kotlin gracias a **Manning Publications**, una polera gracias a **Auth0** y una licencia de **Jetbrains**.
+<img src="img/posts/08-vol5/FotoPremios.png" alt="Premios" class="responsive">
+
+Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas los hicimos regalando premios a las mejores preguntas entre los que participaron, con premios de nuestros auspiciadores.
 
 ## **¡Sigue aprendiendo!**
 ---
 
 ¡Es hora que actues con todo lo aprendido!
 Te recomiendo responder las siguiente preguntas:
-**¿Qué beneficios que brinda Spring Boot con relación a otra forma de realizar microservicios?**, **¿Será Ktor la mejor forma de crear Web Services para Android?**, **¿Por qué será que la programación funcional es tan importante en Kotlin?**.
+**¿Eres fan de Javascript?**, **¿Qué te pareció la integración con Kotlin y Javascript?**, **¿En que casos crees que debas utilizar KAPT?**.
 
 Puedes unirte al grupo en **WhatsApp** en el siguiente **[Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con tus amigos en tus redes sociales.
 
