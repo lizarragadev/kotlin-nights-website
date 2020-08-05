@@ -1,30 +1,30 @@
 ---
-title:  "Kotlin for Server Side"
-subtitle: "Kotlin Nights | Vol. 4"
+title:  "Kotlin Coroutines"
+subtitle: "Kotlin Nights | Vol. 6"
 author: "Gustavo Lizárraga"
 avatar: "img/authors/profile.png"
 image: "img/posts/07-vol4/BannerPost.jpg"
-date:   2020-04-29 21:15:00
+date:   2020-06-26 21:15:00
 ---
 
 <img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
 
-## **Kotlin del lado del servidor**
+## **Kotlin Coroutines**
 ---
 
-Con Kotlin podemos crear aplicaciones del lado del servidor, una característica por demás interesante al momento de realizar el back-end de nuestros proyectos si queremos utilizar un mismo lenguaje de programación.
+Las Corutinas son mecanismos bastante útiles al momento de trabajar con Kotlin, ya que con la cuál podemos simplificar trabajo de tareas asíncronas de forma impresionante. 
 
-Por ello éste Kotlin Night tenemos como tópico principal el tema de Kotlin para el lado del servidor, para que aprendamos juntos la creación de back-end para poder conectar con nuestras aplicaciones Android, aplicaciones Web o multiplataformas, acompáñanos a ver los detalles del mismo.
+Por ello éste Kotlin Night tenemos como tópico principal el tema de Corutinas, para entender desde lo básico para que nos ayudan las corutinas en nuestro dia a dia desarrollando aplicaciones móviles, acompáñanos a ver los detalles del mismo.
 
-## **Kotlin Nights - Vol. 4**
+## **Kotlin Nights - Vol. 6**
 ---
 
-El pasado 23 de abril llevamos a cabo el cuarto **Kotlin Night** del 2020, enfocado en **Kotlin for Server Side** y crear microservicios en la nube.
+El pasado 25 de Junio llevamos a cabo el sexto **Kotlin Night** del 2020, enfocado en **Kotlin Coroutines**.
 
-Si quieres ver la repetición grabada del **Kotlin Nights Vol. 4** puedes hacerlo haciendo click en el siguiente video.
+Si quieres ver la repetición grabada del **Kotlin Nights Vol. 6** puedes hacerlo haciendo click en el siguiente video.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rvSW62AqrxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cGlaIIT5PhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## **Te presento un resumen.**
 ---
@@ -32,51 +32,53 @@ Tuvimos 3 presentaciones que las vemos a continuación:
 
 ### 📢 **Kotlin Talk**
 
-👉 *Microservicios con Kotlin y Spring Boot* - **[Santiago Carrillo](https://twitter.com/sancarbar){:target="_blank"}**
+👉 *Introducción a las corrutinas en Kotlin* - **[Antonio Leiva](https://twitter.com/lime_cl){:target="_blank"}**
 
-<img src="img/posts/07-vol4/FotoSantiago.jpg" alt="Santiago Carrillo" class="responsive">
+<img src="img/posts/09-vol6/FotoAntonio.jpg" alt="Antonio Leiva" class="responsive">
 
-Puedes encontrar su presentación en: **[Google slides](https://docs.google.com/presentation/d/1gFymS5x8vHwNC3G0z54W3rI9QerNFS9-9mkydrUIfUA/edit#slide=id.p){:target="_blank"}**
+Puedes encontrar su presentación en: **[Google slides](){:target="_blank"}**
 
-**Santiago** nos presentó una de las formas en las que podemos crear cosas en el lado del servidor con Spring Boot, algunas características interesantes y una explicación clara y concisa.
+**Antonio** nos presentó la parte introductoria del uso de corutinas en Kotlin, características importantes, las buenas prácticas y ejemplos prácticos.
 
 No te lo pierdas y ve a verlo en Youtube.
 
 ### 📢 **Kotlin Talk**
 
-👉 *Ktor, perdiendo el miedo al back* - **[Sebastian Tellez](https://twitter.com/gorrotowi)**
+👉 *Introducción a Kotlin Flow* - **[Armando Picón](https://twitter.com/DevPicon)**
 
-<img src="img/posts/07-vol4/FotoSebastian.jpg" alt="Sebatian Tellez" class="responsive">
+<img src="img/posts/09-vol6/FotoArmando.jpg" alt="Armando Picón" class="responsive">
 
-Puedes encontrar su presentación en: **[Google Slides](https://drive.google.com/file/d/1cS9-HZ69IEqcodjP_tlmDLls2QM755B0/view){:target="_blank"}**
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/devpicon/introduction-to-kotlin-flow){:target="_blank"}**
 
-**Sebastian** nos presentó otra alternativa para crear back-end con Kotlin utilizando una fabulosa herramienta llamada Ktor, con la cuál perderemos el miedo de crear web services para nuestras aplicaciones Android.
+**Armando** continuando con la plática anterior acerca de Corutinas, nos dió una introducción acerca de los Kotlin Flows, la diferencia con flujos de datos en caliente y frío y temas muy importantes al momento de desarrollar aplicaciones Android.
 
 No te lo pierdas y ve a verlo en Youtube.
 
 ### 💻 **Kotlin Talk**
 
-👉 *Programación Funcional en Kotlin* - **[Anahi Salgado](https://twitter.com/anncode){:target="_blank"}**
+👉 *Seguridad moderna para Android developers* - **[Dinorah Tovar](https://twitter.com/DDinorahtovar){:target="_blank"}**
 
-<img src="img/posts/07-vol4/FotoAnahi.jpg" alt="Anahi Salgado" class="responsive">
+<img src="img/posts/09-vol6/FotoDinorah.jpg" alt="Dinorah Tovar" class="responsive">
 
-Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/19SPq-Qw7k4T9GhrkVG8UQutIhooSJFfzyyZRSfCJMNQ/edit#slide=id.g840ddbfb08_0_356){:target="_blank"}**
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/dinorahto/modern-security-for-android-developers){:target="_blank"}**
 
-**Anahí** nos habló acerca de Kotlin como lenguaje multi-paradigma y la importancia de poder aplicar distintos paradigmas de programación en un solo lenguaje además de algunos datos interesantes.
+**Dinorah** nos habló de las distintas formas de encriptación que existe para nuestras aplicaciones Android, novedades que viene con Android 11, permisos y un sinfín de consejos que son muy valisos para nuestras aplicaciones Android.
 
-De esa forma finalizamos con el cuarto **Kotlin Night** del año.
+De esa forma finalizamos con el sexto **Kotlin Night** del año.
 
 ## **Regalos**
 ---
 
-Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas los hicimos regalando premios a las mejores preguntas entre los que participaron. Entre ellas un libro de Kotlin gracias a **Manning Publications**, una polera gracias a **Auth0** y una licencia de **Jetbrains**.
+<img src="img/posts/09-vol6/FotoPremios.jpg" alt="Premios" class="responsive">
+
+Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas los hicimos regalando premios a las mejores preguntas entre los que participaron.
 
 ## **¡Sigue aprendiendo!**
 ---
 
 ¡Es hora que actues con todo lo aprendido!
 Te recomiendo responder las siguiente preguntas:
-**¿Qué beneficios que brinda Spring Boot con relación a otra forma de realizar microservicios?**, **¿Será Ktor la mejor forma de crear Web Services para Android?**, **¿Por qué será que la programación funcional es tan importante en Kotlin?**.
+**¿Qué diferencias encuentras entre los clásicos hilos y las corutinas?**, **¿Cuáles consideras que son las mejores prácticas al momento de utiliza corutinas?**, **¿Aplicas seguridad a tus aplicaciones Android?**.
 
 Puedes unirte al grupo en **WhatsApp** en el siguiente **[Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con tus amigos en tus redes sociales.
 
