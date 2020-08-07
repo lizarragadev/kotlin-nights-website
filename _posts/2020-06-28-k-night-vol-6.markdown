@@ -36,7 +36,7 @@ Tuvimos 3 presentaciones que las vemos a continuación:
 
 <img src="img/posts/09-vol6/FotoAntonio.jpg" alt="Antonio Leiva" class="responsive">
 
-Puedes encontrar su presentación en: **[Google slides](){:target="_blank"}**
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/antoniolg/kotlin-nights-introduccion-a-las-corrutinas){:target="_blank"}**
 
 **Antonio** nos presentó la parte introductoria del uso de corutinas en Kotlin, características importantes, las buenas prácticas y ejemplos prácticos.
 
