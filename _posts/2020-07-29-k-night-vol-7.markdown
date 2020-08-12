@@ -48,7 +48,7 @@ No te lo pierdas y ve a verlo en Youtube.
 
 <img src="img/posts/10-vol7/FotoJuanGuillermo.jpg" alt="Juan Guillermo Gómez" class="responsive">
 
-Puedes encontrar su presentación en: **[SpeakerDeck](){:target="_blank"}**
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/jggomez){:target="_blank"}**
 
 **Juan Guillermo** nos habló acerca del procesador de anotaciones de Kotlin, ya que existen situaciones donde tenemos código que se repite varias veces en diferentes lugares, esto lo podemos solucionar centralizando el código en un helper o con otra estrategia. Sin embargo a veces ese código debe ser generado dependiendo unas entradas. Para ello podemos usar el procesador de anotaciones, que por medio de metadatos (anotaciones) generamos código en tiempo de compilación.
 
