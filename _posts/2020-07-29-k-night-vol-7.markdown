@@ -36,7 +36,7 @@ Tuvimos 3 presentaciones que las vemos a continuación:
 
 <img src="img/posts/10-vol7/FotoYury.jpg" alt="Yury Camacho" class="responsive">
 
-Puedes encontrar su presentación en: **[Google slides](){:target="_blank"}**
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/camachoyury){:target="_blank"}**
 
 **Yury** nos habló acerca de los principios básicos para poder crear interfaces de usuario declarativas en Kotlin con Jetpack Compose, además de un demo en vivo explicando algunas características importantes de Compose.
 
