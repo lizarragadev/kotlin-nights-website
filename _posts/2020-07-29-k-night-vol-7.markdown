@@ -70,6 +70,6 @@ Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar prem
 Te recomiendo responder las siguiente preguntas:
 **¿Crees que Jetpack Compose será la alternativa definitiva para crear interfaces de usuario en Android?**, **¿Alguna vez creaste tu propio procesador de anotaciones?**.
 
-Puedes unirte al grupo en **WhatsApp** en el siguiente **[Link](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con tus amigos en tus redes sociales.
+Puedes unirte al grupo en **WhatsApp** en el siguiente **[enlace](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con amigos en tus redes sociales.
 
 **#NuncaParesdeAprender** y **#NuncaParesdeCompartir**
