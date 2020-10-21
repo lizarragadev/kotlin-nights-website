@@ -1,30 +1,28 @@
 ---
-title:  "Jetpack Compose"
+title:  "Kotlin Games"
 subtitle: "Kotlin Nights | Vol. 8"
 author: "Gustavo Lizárraga"
 avatar: "img/authors/profile.png"
 image: "img/posts/07-vol4/BannerPost.jpg"
-date:   2020-07-29 21:15:00
+date:   2020-08-27 21:15:00
 ---
 
 <img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
 
-## **Jetpack Compose**
+## **Kotlin Games**
 ---
 
-Jetpack Compose es una de las características de Android nativo que cambiará la forma de crear aplicaciones móviles en un futuro cercano, creando interfaces de usuario declarativas similares a Flutter, Swift UI, React Native, etc.
+Sabemos que el desarrollo de videojuegos es muy entretenido para muchos devs, es por ello que éste Kotlin Night está enfocado principalmente al desarrollo de videojuegos utilizando Kotlin como lenguaje de programación.
 
-Por ello éste Kotlin Night tenemos como tópico principal el tema de Jetpack Compose para aprender un poco acerca de ello y prepararnos para cuando salga su versión estable.
-
-## **Kotlin Nights - Vol. 7**
+## **Kotlin Nights - Vol. 8**
 ---
 
-El pasado 23 de Julio llevamos a cabo el séptimo **Kotlin Night** del 2020, enfocado en **Jetpack Compose** para crear UI en Android de forma nativa.
+El pasado 27 de Agosto llevamos a cabo el octavo **Kotlin Night** del 2020, enfocado en **Videojuegos** en Kotlin.
 
-Si quieres ver la repetición grabada del **Kotlin Nights Vol. 7** puedes hacerlo haciendo click en el siguiente video.
+Si quieres ver la repetición grabada del **Kotlin Nights Vol. 8** puedes hacerlo haciendo click en el siguiente video.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JEF4owJNoFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iXNfFh7eqDU&t" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## **Te presento un resumen.**
 ---
@@ -32,34 +30,40 @@ Tuvimos 3 presentaciones que las vemos a continuación:
 
 ### 📢 **Kotlin Talk**
 
-👉 *Jetpack Compose* - **[Yury Camacho](https://twitter.com/camachoyury){:target="_blank"}**
+👉 *Game Creator* - **[José Dimas Luján](https://twitter.com/josedlujan){:target="_blank"}**
 
-<img src="img/posts/10-vol7/FotoYury.jpg" alt="Yury Camacho" class="responsive">
+<img src="img/posts/11-vol8/FotoJose.jpg" alt="Jose Dimas" class="responsive">
 
-Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/camachoyury){:target="_blank"}**
-
-**Yury** nos habló acerca de los principios básicos para poder crear interfaces de usuario declarativas en Kotlin con Jetpack Compose, además de un demo en vivo explicando algunas características importantes de Compose.
+**José** nos compartió acerca de cómo podemos crear videojuegos de forma sencilla con librerías como LibGDX, algunas características principales y modos de uso.
 
 No te lo pierdas y ve a verlo en Youtube.
 
 ### 📢 **Kotlin Talk**
 
-👉 *Procesador de Anotaciones* - **[Juan Guillermo Gómez](https://twitter.com/jggomezt)**
+👉 *Las ventajas de hacer tests al desarrollar videojuegos* - **[Vinicius Da Silva](https://twitter.com/viniciusdsl)**
 
-<img src="img/posts/10-vol7/FotoJuanGuillermo.jpg" alt="Juan Guillermo Gómez" class="responsive">
+<img src="img/posts/11-vol8/FotoVinicius.jpg" alt="Vinicius Da Silva" class="responsive">
 
-Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/jggomez){:target="_blank"}**
-
-**Juan Guillermo** nos compartió acerca del procesador de anotaciones de Kotlin, ya que existen situaciones donde tenemos código que se repite varias veces en diferentes lugares, esto lo podemos solucionar centralizando el código en un helper o con otra estrategia. Sin embargo a veces ese código debe ser generado dependiendo unas entradas. Para ello podemos usar el procesador de anotaciones, que por medio de metadatos (anotaciones) generamos código en tiempo de compilación.
+**Vinicius** nos habló acerca de pruebas o tests que podemos realizar a videojuegos, algunas buenas prácticas con contratos, presenters y muchos tópicos más.
 
 No te lo pierdas y ve a verlo en Youtube.
 
-De esa forma finalizamos con el cuarto **Kotlin Night** del año.
+### 📢 **Kotlin Talk**
+
+👉 *Lip sync en Unity* - **[Ruth García](https://twitter.com/pr00thmatic)**
+
+<img src="img/posts/11-vol8/FotoRuth.jpg" alt="Ruth Garcia" class="responsive">
+
+**Ruth** hizo un demo en vivo utilizando Unity para animar labios y realizar sincronización de un personaje, al cuál incluso le adicionó voz en sincronización.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+De esa forma finalizamos con el octavo **Kotlin Night** del año.
 
 ## **Regalos**
 ---
 
-<img src="img/posts/10-vol7/FotoPremios.jpg" alt="Premios" class="responsive">
+<img src="img/posts/11-vol8/FotoSorteo.jpg" alt="Premios" class="responsive">
 
 Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas los hicimos regalando premios a las mejores preguntas entre los que participaron. 
 
@@ -68,7 +72,7 @@ Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar prem
 
 ¡Es hora que actues con todo lo aprendido!
 Te recomiendo responder las siguiente preguntas:
-**¿Crees que Jetpack Compose será la alternativa definitiva para crear interfaces de usuario en Android?**, **¿Alguna vez creaste tu propio procesador de anotaciones?**.
+**¿Te gusta o te gustaría realizar videojuegos para Android?**, **¿Crees que es bueno desarrollar videojuegos en un motor como Unity o librerías como LibGDX?**.
 
 Puedes unirte al grupo en **WhatsApp** en el siguiente **[enlace](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con amigos en tus redes sociales.
 
