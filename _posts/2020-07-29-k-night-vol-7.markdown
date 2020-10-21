@@ -54,7 +54,7 @@ Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/jg
 
 No te lo pierdas y ve a verlo en Youtube.
 
-De esa forma finalizamos con el cuarto **Kotlin Night** del año.
+De esa forma finalizamos con el séptimo **Kotlin Night** del año.
 
 ## **Regalos**
 ---
