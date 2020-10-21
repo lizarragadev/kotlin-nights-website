@@ -22,7 +22,7 @@ El pasado 27 de Agosto llevamos a cabo el octavo **Kotlin Night** del 2020, enfo
 Si quieres ver la repetición grabada del **Kotlin Nights Vol. 8** puedes hacerlo haciendo click en el siguiente video.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iXNfFh7eqDU&t" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iXNfFh7eqDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## **Te presento un resumen.**
 ---
