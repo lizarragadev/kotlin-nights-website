@@ -1,0 +1,90 @@
+---
+title:  "Architectures"
+subtitle: "Kotlin Nights | Vol. 9"
+author: "Gustavo Lizárraga"
+avatar: "img/authors/profile.png"
+image: "img/posts/07-vol4/BannerPost.jpg"
+date:   2020-09-24 21:15:00
+---
+
+<img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
+
+## **Architectures**
+---
+
+El constante dilema de patrones de diseño, arquitecturas de diseño o arquitecturas en general es un tema que debe tomar mucha importancia en los desarrolladores, ya que debemos notar las diferencias y que debemos utilizar dependiendo el proyecto en el que estemos trabajando. Es por ello que éste Kotlin Night, estará destinado a hablar de Arquitecturas.
+
+## **Kotlin Nights - Vol. 9**
+---
+
+El pasado 24 de Septiembre llevamos a cabo el noveno **Kotlin Night** del 2020, enfocado en **Architectures** para hacer buenos proyectos de Software.
+
+Si quieres ver la repetición grabada del **Kotlin Nights Vol. 9** puedes hacerlo haciendo click en el siguiente video.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5lj2uMHYxgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## **Te presento un resumen.**
+---
+Tuvimos 3 presentaciones que las vemos a continuación:
+
+### 📢 **Kotlin Talk**
+
+👉 *Easy unit testing with mockk and spek* - **[Juan Guillermo Gómez](https://twitter.com/jggomezt)**
+
+<img src="img/posts/12-vol9/FotoJuanGuillermo.jpg" alt="Juan Guillermo Gómez" class="responsive">
+
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/jggomez){:target="_blank"}**
+
+**Juan Guillermo** nos compartió acerca las pruebas unitarias y que son una forma de asegurar que tu código hace lo que esperas que haga. Es algo que todos hablan pero al principio puede que no veas el gran valor, sin embargo luego que las implementas te das cuenta que te librarán de muchos problemas. Pero cómo implementarlas de una forma legible y mantenible??? Mockk y Spek te facilitaran mucho en la construcción y además están escritas en Kotlin con DSL y soporte a multiplataforma preciso para Kotlin Lovers.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+
+### 📢 **Kotlin Talk**
+
+👉 *MVVM Pattern* - **[Eduardo Medina](https://twitter.com/eduardomedina){:target="_blank"}**
+
+<img src="img/posts/12-vol9/FotoEduardo.jpg" alt="Eduardo Medina" class="responsive">
+
+Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/1nTwtU8OWYs_8Q3i_3hOPAWodDpDKzO--uA-4b6LUr8g/edit#slide=id.g588082e8c2_0_0){:target="_blank"}**
+
+También puedes encontrar su demo en **[GitHub](https://github.com/emedinaa/kotlin-mvvm){:target="_blank"}****
+
+**Eduardo** nos explicó de manera extensa el porque deberíamos utilziar algún patrón en nuestras aplicaciones, nos enseñó acerca de MVVM, los estados que sigue y justamente a un demo pudimos ver la facilidad que tiene y los beneficios del mismo.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+### 📢 **Kotlin Talk**
+
+👉 *Android Apps in modular structure paradigms* - **[Erik Jhordan](https://twitter.com/ErikJhordan_Rey)**
+
+<img src="img/posts/12-vol9/FotoErik.jpg" alt="Erik Jhordan" class="responsive">
+
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/erikjhordan_rey/android-apps-in-modular-structure-paradigms){:target="_blank"}**
+
+También puedes visitar su blog en el siguiente **[enlace](https://erikjhordan-rey.github.io/){:target="_blank"}**
+
+**Erik** nos compartió acerca de los enfoques para crear arquitecturas modulares en aplicaciones de Android, las buenas prácticas, además de muy buenos recursos que podemos utilizar para nuestras aplicaciones Android.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+De esa forma finalizamos con el séptimo **Kotlin Night** del año.
+
+## **Regalos**
+---
+
+<img src="img/posts/12-vol9/FotoPremios.jpg" alt="Premios" class="responsive">
+
+Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas los hicimos regalando premios a las mejores preguntas entre los que participaron. 
+
+## **¡Sigue aprendiendo!**
+---
+
+¡Es hora que actues con todo lo aprendido!
+Te recomiendo responder las siguiente preguntas:
+**¿Utilizar algún patrón en tus aplicaciones?**, **¿Tienes alguna otra alternativa que te resultó muy óptima en tus aplicaciones?**.
+
+Puedes unirte al grupo en **WhatsApp** en el siguiente **[enlace](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con amigos en tus redes sociales.
+
+**#NuncaParesdeAprender** y **#NuncaParesdeCompartir**
