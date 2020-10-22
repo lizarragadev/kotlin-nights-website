@@ -49,7 +49,7 @@ No te lo pierdas y ve a verlo en Youtube.
 
 Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/1nTwtU8OWYs_8Q3i_3hOPAWodDpDKzO--uA-4b6LUr8g/edit#slide=id.g588082e8c2_0_0){:target="_blank"}**
 
-También puedes encontrar su demo en **[GitHub](https://github.com/emedinaa/kotlin-mvvm){:target="_blank"}****
+También puedes encontrar su demo en **[GitHub](https://github.com/emedinaa/kotlin-mvvm){:target="_blank"}**
 
 **Eduardo** nos explicó de manera extensa el porque deberíamos utilziar algún patrón en nuestras aplicaciones, nos enseñó acerca de MVVM, los estados que sigue y justamente a un demo pudimos ver la facilidad que tiene y los beneficios del mismo.
 
