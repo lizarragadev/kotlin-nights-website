@@ -1,0 +1,87 @@
+---
+title:  "Software as a Service"
+subtitle: "Kotlin Nights | Vol. 10"
+author: "Gustavo Lizárraga"
+avatar: "img/authors/profile.png"
+image: "img/posts/07-vol4/BannerPost.jpg"
+date:   2020-10-29 21:15:00
+---
+
+<img src="img/knights/knightlogo.png" alt="K-Night" class="responsive-logo">
+
+## **Architectures**
+---
+
+El Software externo a Kotlin nos ayuda crear soluciones mucho mejores para nuestras aplicaciones Android, temas cómo Firebase, Webhooks, SpringBoot y Gradle. 
+
+## **Kotlin Nights - Vol. 10**
+---
+
+El pasado 29 de Octubre llevamos a cabo el décimo **Kotlin Night** del 2020, enfocado en **Software as a Service** para interactuar con herramientas que nos ayudan en el proceso de desarrollo de aplicaciones Android con Kotlin.
+
+Si quieres ver la repetición grabada del **Kotlin Nights Vol. 10** puedes hacerlo haciendo click en el siguiente video.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vsu7BXnG3nk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## **Te presento un resumen.**
+---
+Tuvimos 3 presentaciones que las vemos a continuación:
+
+### 📢 **Kotlin Talk**
+
+👉 *Firebase Multidabase con Kotlin y flavors* - **[Brian Castillo](https://twitter.com/briansalvattore)**
+
+<img src="img/posts/13-vol10/FotoBrian.jpg" alt="Brian Castillo" class="responsive">
+
+Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/1qHNBUvvlFkgHeUcIEDxZOCCgL2C8QaROTPQT2pRL_3w/edit#slide=id.g5b9a4bdf9e_0_358){:target="_blank"}**
+
+**Brian** nos compartió acerca de que muchas apps solo necesitan un proyecto de Firebase y la configuración predeterminada pero en otros proyectos puede ser útil usar varios proyectos de Firebase y todo ellos aplicando Flavors.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+### 📢 **Kotlin Talk**
+
+👉 *Kotlin, Retrofit y Spring Boot* - **[Carlo Huamán](https://twitter.com/tohure_){:target="_blank"}**
+
+<img src="img/posts/13-vol10/FotoCarlo.jpg" alt="Carlo Renzo" class="responsive">
+
+Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR3AcSw83iIwsS9nTHpoCtGPaOQj6RZ1Tq3AhGf9eJcMlhi7Q7pxb0I7VPyxuCtnWApeS4zuOH7XGSH/pub?start=false&loop=false&delayms=3000&slide=id.g8b71a22d50_0_169){:target="_blank"}**
+
+También puedes encontrar su demo en **[GitHub](https://github.com/emedinaa/kotlin-mvvm){:target="_blank"}**
+
+**Carlo** habló acerca de WebHooks, que son, para que sirven, como crear un WebHook dentro de AppEngine y para poder probarlo utilizó Retrofit para realizar peticiones al WebHook y todo a través de Kotlin.
+
+No te lo pierdas y ve a verlo en Youtube.
+
+### 📢 **Kotlin Talk**
+
+👉 *Creando plugins de Gradle* - **[Sinuhé Valencia](https://twitter.com/Sierisimo)**
+
+<img src="img/posts/13-vol10/FotoSier.jpg" alt="Sier Valencia" class="responsive">
+
+Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/erikjhordan_rey/android-apps-in-modular-structure-paradigms){:target="_blank"}**
+
+**Sinuhé** nos compartió acerca de como podemos crear nuestros propios plugins en Gradle y .
+
+No te lo pierdas y ve a verlo en Youtube.
+
+De esa forma finalizamos con el séptimo **Kotlin Night** del año.
+
+## **Regalos**
+---
+
+<img src="img/posts/13-vol10/FotoPremios.jpg" alt="Premios" class="responsive">
+
+Por temas de cuarentena y que debemos quedarnos en casa, no pudimos regalar premios presencialmente, pero de todas formas los hicimos regalando premios a las mejores preguntas entre los que participaron. 
+
+## **¡Sigue aprendiendo!**
+---
+
+¡Es hora que actues con todo lo aprendido!
+Te recomiendo responder las siguiente preguntas:
+**¿Quisieras crear tu propio plugin en Gradle?**, **¿Alguna vez necesitaste crear más de una base de datos en Firebase?**, **¿Necesitaste crear algún WebHook para tus proyectos y como lo hiciste interactuar con tu aplicación Android?**.
+
+Puedes unirte al grupo en **WhatsApp** en el siguiente **[enlace](https://chat.whatsapp.com/IB0gxV6ke1H2ilzitfwkas){:target="_blank"}** y no olvides compartirlo con amigos en tus redes sociales.
+
+**#NuncaParesdeAprender** y **#NuncaParesdeCompartir**
