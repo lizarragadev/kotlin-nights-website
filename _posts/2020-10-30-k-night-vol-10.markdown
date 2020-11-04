@@ -60,7 +60,7 @@ No te lo pierdas y ve a verlo en Youtube.
 
 <img src="img/posts/13-vol10/FotoSier.jpg" alt="Sier Valencia" class="responsive">
 
-Puedes encontrar su presentación en: **[SpeakerDeck](https://speakerdeck.com/erikjhordan_rey/android-apps-in-modular-structure-paradigms){:target="_blank"}**
+Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/12QodNfJcLdpekR0M05VYucJTYS2FsFg4o3WPTnkHzd4/edit){:target="_blank"}**
 
 **Sinuhé** nos compartió acerca de como podemos crear nuestros propios plugins en Gradle y .
 
