@@ -48,8 +48,6 @@ No te lo pierdas y ve a verlo en Youtube.
 
 Puedes encontrar su presentación en: **[Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR3AcSw83iIwsS9nTHpoCtGPaOQj6RZ1Tq3AhGf9eJcMlhi7Q7pxb0I7VPyxuCtnWApeS4zuOH7XGSH/pub?start=false&loop=false&delayms=3000&slide=id.g8b71a22d50_0_169){:target="_blank"}**
 
-También puedes encontrar su demo en **[GitHub](https://github.com/emedinaa/kotlin-mvvm){:target="_blank"}**
-
 **Carlo** habló acerca de WebHooks, que son, para que sirven, como crear un WebHook dentro de AppEngine y para poder probarlo utilizó Retrofit para realizar peticiones al WebHook y todo a través de Kotlin.
 
 No te lo pierdas y ve a verlo en Youtube.
